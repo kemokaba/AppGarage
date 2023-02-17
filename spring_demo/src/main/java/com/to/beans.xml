@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean class="com.to.Hello" id="h1">
+        <property name="message" value="Welcome to Spring"></property>
+    </bean>
+    <bean class="com.to.Hello" id="h2">
+        <property name="message" value="Welcome to myApp"></property>
+    </bean>
+    <bean class="com.to.Employee" id="e1">
+        <property name="employeeID" value="12346"></property>
+        <property name="employeeName" value="Test"></property>
+    </bean>
+    <bean class="com.to.Employee" id="e2">
+         <constructor-arg name="employeeID" value="7562"> </constructor-arg>
+        <constructor-arg name="employeeName" value="TEST2"></constructor-arg>
+    </bean>
+
+
+</beans>
