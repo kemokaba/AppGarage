@@ -1,0 +1,3460 @@
+﻿The Project Gutenberg eBook of Egyptian decorative art, by W. M.
+Flinders Petrie
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Egyptian decorative art
+       A course of lectures delivered at the Royal Institution
+
+Author: W. M. Flinders Petrie
+
+Release Date: February 16, 2023 [eBook #70049]
+
+Language: English
+
+Produced by: Richard Tonsing and the Online Distributed Proofreading
+             Team at https://www.pgdp.net (This file was produced from
+             images generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK EGYPTIAN DECORATIVE ART ***
+
+
+[Illustration]
+
+
+
+
+                                EGYPTIAN
+                             DECORATIVE ART
+                         _A COURSE OF LECTURES_
+                              DELIVERED AT
+                         THE ROYAL INSTITUTION
+
+
+                                   BY
+
+                     W. M. FLINDERS PETRIE, D.C.L.
+
+      EDWARDS PROFESSOR OF EGYPTOLOGY, UNIVERSITY COLLEGE, LONDON
+
+
+                             SECOND EDITION
+
+
+                          METHUEN & CO., LTD.
+                         36 ESSEX STREET, W.C.
+                                 LONDON
+
+
+
+
+                  _First Published      October 1895_
+                       _Second Edition      1920_
+
+
+
+
+                                CONTENTS
+
+
+                               CHAPTER I
+
+                        _SOURCES OF DECORATION_
+                                                   PAGE
+                 EGYPTIAN TASTE FOR DECORATION        1
+                 DECORATIVE WRITING OF HIEROGLYPHS    3
+                 ORIGIN OF PATTERNS                   5
+                 PROBABILITY OF COPYING               6
+                 GEOMETRICAL ORNAMENT                 9
+                 NATURAL ORNAMENT                    10
+                 STRUCTURAL ORNAMENT                 10
+                 SYMBOLIC ORNAMENT                   11
+
+
+                               CHAPTER II
+
+                        _GEOMETRICAL DECORATION_
+
+                 THE LINE AND ZIGZAG                 12
+                 THE SPOT                            15
+                 THE WAVE                            16
+                 THE SPIRAL                          17
+                 THE CONTINUOUS SPIRAL               21
+                 SPIRAL SURFACE PATTERNS             28
+                 QUADRUPLE SPIRALS                   31
+                 FRETS                               35
+                 GREEK SPIRALS                       38
+                 SPIRAL BORDERS                      40
+                 CHEQUERS                            44
+                 STITCH PATTERNS                     46
+                 CIRCLES                             47
+
+
+                              CHAPTER III
+
+                          _NATURAL DECORATION_
+
+                 FEATHERS                            50
+                 ROSETTES                            56
+                 DISC AND SPOT PATTERNS              60
+                 LOTUS FLOWER                        62
+                 LOTUS BORDERS                       64
+                 LOTUS PLANT                         66
+                 LOTUS DEVELOPMENT                   68
+                 LOTUS, ASSYRIAN AND GREEK           72
+                 LOTUS WITH PENDANT                  73
+                 PAPYRUS                             75
+                 LOTUS AND PAPYRUS COLUMNS           76
+                 THE PALM                            78
+                 THE VINE                            79
+                 THE CONVOLVULUS                     81
+                 THE THISTLE                         82
+                 GARLANDS                            82
+                 CAPTIVES                            85
+                 THE IBEX                            87
+                 BIRDS                               87
+                 STARS                               88
+                 GRAINING AND MARBLING               89
+
+
+                               CHAPTER IV
+
+                        _STRUCTURAL DECORATION_
+
+                 STRUCTURAL FORMS SURVIVING          91
+                 ROPE PATTERN                        92
+                 BASKET-WORK                         93
+                 WOODEN FRAMING                      94
+                 PANELLING                           95
+                 SLOPING WALLS                       96
+                 TORUS ROLL                          97
+                 PALM CORNICE                        98
+                 PAPYRUS CORNICE                    101
+                 BINDING PATTERNS                   103
+
+
+                               CHAPTER V
+
+                         _SYMBOLIC DECORATION_
+
+                 THE URAEUS                         107
+                 THE DISC AND WINGS                 108
+                 THE HORNS                          110
+                 THE VULTURE                        111
+                 THE SCARAB                         111
+                 THE LION                           112
+                 THE GODDESS MAAT                   114
+                 THE GODDESS HATHOR                 114
+                 THE GOD BES                        115
+                 HIEROGLYPH SYMBOLS                 116
+                 CAPTIVES                           122
+
+                 INDEX                              123
+
+
+
+
+                             ABBREVIATIONS
+
+
+ C. M. Champollion, Monuments.
+ Duem. Duemichen Hist. Inschr.
+ F. P. coll. Flinders Petrie collection.
+ Goodyear. Grammar of the lotus.
+ H. S. Historical Scarabs (Petrie).
+ I. Illahun (Petrie)
+ K. Kahun (Petrie).
+ L. D. Lepsius Denkmaler.
+ P. and C. Perrot and Chipiez, Egypt.
+ P. and C. Ass. Perrot and Chipiez, Assyria.
+ P. I. Petrie, Illahun.
+ P. M. Petrie, Medum.
+ P. or Prisse. Prisse, Art; numbers refer to numbering in Edwards Library
+    copy, plates being issued unnumbered.
+ P. Mon. Prisse, Monuments.
+ R. C. Rosellini, Mon. Civili.
+ R. S. Rosellini, Mon. Storici.
+ Schuck. Schuckhardt’s, Schliemann.
+ T. A. Tell el Amarna (Petrie).
+ Tanis. Tanis (Petrie)
+ W. M. C. Wilkinson, Manners and Customs.
+
+The shading of the figures is according to heraldic colours: || red, ═
+blue, \\ green, // purple, ⁐ yellow
+
+
+
+
+                               CHAPTER I
+                      _THE SOURCES OF DECORATION_
+
+
+In dealing with the subject of decorative art in Egypt, it is needful to
+begin by setting some bounds to a study which might be made to embrace
+almost every example of ancient work known to us in that land. The
+Egyptian treatment of everything great and small was so strongly
+decorative that it is hard to exclude an overwhelming variety of
+considerations. But here it is proposed to limit our view to the
+historical development of the various motives or elements of decoration.
+The larger questions of the æsthetic scheme of design, of the meaning of
+ornament—symbolic or religious, of the value and effect of colour, of
+the relations of parts, we can but glance at occasionally in passing; in
+another branch, the historical connection of Egyptian design with that
+of other countries, the prospect is so tempting and so valuable, that we
+may linger a little at each of these bye-ways to note where the turning
+occurs and to what it leads. As I have said, all Egyptian design was
+strongly decorative. The love of form and of drawing was perhaps a
+greater force with the Egyptians than with any other people. The early
+Babylonians and the Chinese had, like the Egyptians, a pictorial
+writing; but step by step they soon dropped the picture altogether in
+favour of the easier abbreviation of it. The Egyptian, on the contrary,
+never lost sight of his original picture; and however much his current
+hand altered, yet for four or five thousand years he still maintained
+his true hieroglyphic pictures. They were modified by taste and fashion,
+even in some cases their origin was forgotten, yet the artistic form was
+there to the very end.
+
+But the hieroglyphs were not only a writing, they were a decoration in
+themselves. Their position was ruled by their effect as a frieze, like
+the beautiful tile borders of Cufic inscription on Arab architecture;
+and we never see in Egypt the barbarous cutting of an inscription across
+figure sculptures as is so common in Assyria. The arrangement of the
+groups of hieroglyphs was also ruled by their decorative effect. Signs
+were often transposed in order to group them more harmoniously together
+in a graceful scheme; and many sounds had two different signs, one tall,
+another wide, which could be used indifferently (at least in later
+times) so as to combine better with the forms which adjoined them. In
+short, the Egyptian with true decorative instinct clung to his pictorial
+writing, modified it to adapt it to his designs, and was rewarded by
+having the most beautiful writing that ever existed, and one which
+excited and gave scope to his artistic tastes on every monument. This is
+but one illustration of the inherent power for design and decoration
+which made the Egyptian the father of the world’s ornament.
+
+In other directions we see the same ability. In the adaptation of the
+scenes of peace or of war to the gigantic wall surfaces of the pylons
+and temples; in the grand situations chosen for the buildings, from the
+platform of cliffs for the pyramids at Gizeh, to the graceful island of
+Philæ; in the profusion of ornament on the small objects of daily life,
+which yet never appear inappropriate until a debased period;—in all
+these different manners the Egyptian showed a variety of capacity in
+design and decoration which has not been exceeded by any other people.
+
+
+The question of the origination of patterns at one or more centres has
+been as disputed as the origination of man himself from one or more
+stocks. Probably some patterns may have been re-invented in different
+ages and countries; but, as yet, we have far less evidence of
+re-invention than we have of copying. It is easy to pre-suppose a
+repeated invention of designs, but we are concerned with what has been,
+and not with what might have been. Practically it is very difficult, or
+almost impossible, to point out decoration which is proved to have
+originated independently, and not to have been copied from the Egyptian
+stock. The influences of the modes of work in weaving and basket-work
+have had much to do with the uniformity of patterns in different
+countries; apparently starting from different motives, the patterns when
+subject to the same structural influences have resulted in very similar
+ornaments. This complicates the question undoubtedly; and until we have
+much more research on the history of design, and an abundance of dated
+examples, it will be unsafe to dogmatise one way or the other. So far,
+however, as evidence at present goes, it may be said that—in the Old
+World at least—there is a presumption that all the ornament of the types
+of Egyptian designs is lineally descended from those designs. Mr.
+Goodyear has brought so much evidence for this, that—whether we agree
+with all his views or not—his facts are reasonably convincing on the
+general descent of classic ornament from Egyptian, and of Indian and
+Mohammedan from the classical, and even of Eastern Asian design from the
+Mohammedan sources. A good illustration of the penetrating effect of
+design is seen in a most interesting work on the prehistoric bronzes of
+Minusinsk in Central Asia, near the sources of the Yenesei river, and
+equidistant from Russia and from China, from the Arctic Ocean and from
+the Bay of Bengal. Here in the very heart of Asia we might look for some
+original design. But yet it is easy to see the mingled influences of the
+surrounding lands, and to lay one’s finger on one thing that might be
+Norse, on another that might be Chinese, or another Persian. If, then,
+the tastes of countries distant one or two thousand miles in different
+directions can be seen moulding an art across half a continent, how much
+more readily can we credit the descent of design along the well-known
+historical lines of intercourse. The same thing on a lesser scale is
+seen in the recent publication of the prehistoric bronzes of Upper
+Bavaria; in these the designs are partly Italic, partly Mykenaean. If
+forms were readily re-invented again and again independently, why should
+we not find in Bavaria some of the Persian or Chinese types? Nothing of
+the kind is seen, but the forms and decoration are distinctly those of
+the two countries from which the ancient makers presumably obtained
+their arts and civilisation. Yet again, to come to historical times, the
+elegant use of the angle of a third of a right angle so generally in
+Arab art, is very distinct and characteristic. Yet if patterns were
+continually re-invented, how is it that no one else hit on this simple
+element for thousands of years? The very fact that the locality and date
+of an object of unknown origin can be so closely predicted by its style
+and feeling in design, is the best proof how continuous is the history
+and evolution of ornament, and how little new invention has to do with
+it—in short, how difficult it is to man to be really original.
+
+Now we can see a source for most of our familiar elements of design in
+the decoration which was used in Egypt long before any example that is
+known to us outside of that land. And it is to Egypt then that we are
+logically bound to look as the origin of these motives. If, then, we
+seek the source of most of the various elements of the decoration which
+covers our walls, our floors, our dishes, our book-covers, and even our
+railway stations, we must begin by studying Egypt.
+
+
+As our object is the history and evolution of the various elements of
+decoration, we may classify these elements under four divisions. There
+is the simplest geometrical ornament of lines and spirals and curves,
+and of surfaces divided by these into squares and circles. There is the
+natural ornament of copying feathers, flowers, plants, and animals.
+There is structural ornament which results from the structural
+necessities of building and of manufacture: these often result in the
+perpetuation of defects or copies of defects, like the circle stamped in
+the plain end of meat tins which is made to imitate the circular patch
+soldered on to the other end, so trying to establish a balance of
+appearance. Many architectural devices and difficulties are perpetuated
+for us in this way long after the original purpose has passed away; such
+as the cylindrical bosses projecting from the walls in Moslem
+architecture, which imitate the projecting ends of pillars torn from
+ruins and built into the wall, though rather too long for the position.
+The origin and the imitation can be seen side by side at Jerusalem.
+Structural ornament is therefore often of the greatest historical value
+as pointing to a condition of things that has since vanished.
+
+Lastly, there is symbolic ornament. Some now claim most decoration as
+having some symbolic or religious meaning; of that I shall say nothing,
+as it is but an hypothesis. But there is no question of the symbolical
+intention of many constantly repeated ornaments in Egyptian work, as the
+globe and wings, the scarab, or the various hieroglyphs with well-known
+meanings which are interwoven into many designs.
+
+
+
+
+                               CHAPTER II
+                        _GEOMETRICAL DECORATION_
+
+
+                              _The Line._
+
+One of the simplest and the earliest kinds of ornament that we find is
+the zigzag line, which occurs on the oldest tombs, 4000 B.C. So simple
+is this, that it might be supposed that every possible variety of it
+would be soon played out. Yet, strange to say, two of the simplest
+modifications are not found till a couple of thousand years after the
+plain zigzag had been used. The wavy line in curves instead of angular
+waves is not found till the XVIIIth dynasty, or about 1500 B.C.; while
+the zigzag with spots in the spaces is equally late, and is generally
+foreign to Egypt.
+
+[Illustration: 1.—VI. dyn., L.D., II. 98.]
+
+[Illustration: 2.—IV. dyn., Mery, Louvre.]
+
+[Illustration: 3.—V. dyn., Ptah-hotep, Perrot XIII.]
+
+The plain repeated zigzag line is used down to late times, but generally
+with variety in colour to give it interest. From the earliest times this
+was symmetrically doubled, so as to give a row of squares with parallel
+borders; or with repeated zigzag borders in alternate light and dark
+colours. This same type lasted onward to the XIXth dynasty (belt Ramessu
+II. C.M.X.), and is found, with the addition of spots in the outer
+angles, in the foreign dress of Shekh Absha, at Benihasan, in the XIIth
+dynasty.
+
+[Illustration: 4.—Prisse, Art. 84.]
+
+[Illustration: 5.—L.D., II. 130.]
+
+A later stage was to repeat the squares with varieties of colour; and
+also to introduce details into the squares, and so make them compound
+patterns, as in the XVIIth dynasty at El Kab, where the sequence of the
+blue, green, and red lines makes a brilliant effect from these simple
+elements. Not only a square, but also a hexagon, was worked into the
+same design. This, from the nature of it, suggests a rush-work screen,
+and probably it was plaited with rushes in three directions, and hence
+the production of this particular angle. The previous zigzag patterns
+all suggest weaving; and in some in Ptah-hotep’s tomb (Vth dyn.) closely
+woven and complex zigzag patterns are shown which are evidently copied
+from textiles, as we shall see further on in the chequer patterns.
+
+[Illustration: 6.—XII. dyn. Amu dress.]
+
+[Illustration: 7.—XVIII., Keft dress. C.M. cxcl.]
+
+[Illustration: 8.—XX. Vase, C.M. cclix.]
+
+The use of spots for filling in corners was foreign to the Egyptian. We
+first find it in the garments of the Amu, or people of northern Arabia,
+in the XIIth dynasty. Till then a spot is never seen, except for the
+centre of a square; but the Amu dresses are covered with spots in every
+space, and even along the bars and stripes of colour. The same is seen
+on the later dresses of the Amu in the XIXth dynasty, and also in the
+dress of the Phœnicians, or Keft people. It recurs on the foreign vases
+probably brought in from the Aegean; and it is only found in Egyptian
+products during the XVIIIth dynasty, when foreign fashions prevailed,
+though it is but rare then. Hence we may fairly set aside this use of
+spots as a foreign or Asiatic element, akin to the filling in of spaces
+on early Greek vases with rosettes and other small ornaments.
+
+[Illustration: 9.—XVIII., P. I. xvii. 7.]
+
+[Illustration: 10.—XVIII. Vase, R.C. lvii.]
+
+The zigzag line only became changed into a rounded wavy line in the
+later time of the XVIIIth dynasty. This probably results from the
+earlier patterns being all direct copies of textiles which maintained
+rectilinear patterns; but when the same came to be used on pottery (as
+above), or on metal work (shield border, L.D. iii. 64), then curves were
+readily introduced. On a golden bowl repeated waves are shown, deepened
+so as to receive further figures.
+
+
+                             _The Spiral._
+
+The spiral, or scroll, is one of the greatest elements of Egyptian
+decoration; it is only second to the lotus in importance, and shares
+with that the origination of a great part of the ornament of the world.
+The source of the spiral and its meaning are alike uncertain. It has
+been attributed to a development of the lotus pattern; but it is known
+in every variety of treatment without any trace of connection with the
+lotus. It has been said to represent the wanderings of the soul; why, or
+how, is not specified; nor why some souls should wander in circular
+spirals, others in oval spirals, some in spirals with ends, others in
+spirals that are endless. And what a soul was supposed to do when on the
+track of a triple diverging spiral, how it could go two ways at once, or
+which line it was to take—all these difficulties suggest that the
+theorist’s soul was on a remarkable spiral.
+
+[Illustration: 11.—F.P. coll.]
+
+[Illustration: 12.—F.P.]
+
+[Illustration: 13.—F.P.]
+
+The subject of spirals fall into two groups. The older group by far are
+the scarabs, which contain spirals on a limited and small field; the
+other group are those continuous patterns on ceilings, furniture, &c.,
+which are capable of indefinite extension by repetition. As the scarabs
+are far the older examples, there is a presumption that spirals may have
+even originated on scarab designs; and the hesitating and simple manner
+of the oldest instances on scarabs indeed seems as if the engravers were
+merely filling a space, and not copying any well-known pattern. The
+earliest that can be certainly dated is one of Assa, of the Vth dynasty,
+on which a bordering line is interrupted at the ends and turned in to
+fill the space on either side of the name. From the cramped way in which
+this is done, and the want of uniformity in the spirals, it seems as if
+no regular pattern were in view, but only the need of avoiding an
+unsightly gap in the design. We next see spirals used in the same way to
+fill up at the sides of the inscription on the scarabs of Pepy, without
+any attempt to connect them into a continuous pattern; and on the
+scarabs of Ma·abra, probably soon after, the same loose spirals are seen
+thrown in to fill up. In none of these cases is the ornament anything
+but the means of supplementing the required inscription; nothing is
+arranged for the sake of it, and it is treated as a mere afterthought.
+Nor is it until the XIIth dynasty that any continuous spiral design can
+be dated. For over a thousand years, then, the spiral is only to be
+found as an accessory on scarabs, a fact which strongly suggests that it
+originated in this manner.
+
+Before describing spirals further, it is needful to settle some definite
+names for their varieties. Where the lines are coiled closely in a
+circular curve, as in Assa’s scarab, they may be termed _coils_; where
+lengthened out, as in Pepy’s, we may term them _hooks_; where lengthy in
+the body between the turns, as in Ma·abra’s, they are rather _links_.
+Where the line is broken at each spiral, as in all the above, it is a
+_chain_ of spirals; but where the same line is maintained unbroken
+throughout it is a _continuous_ spiral, and these are found in all
+varieties of coils, hooks, or links. Sometimes the continuous line has
+separate ends, but more usually it is _endless_, returning into itself.
+These terms will suffice to distinguish the varieties, and enable us to
+speak of a spiral with definiteness.
+
+[Illustration: 14.—Louvre.]
+
+[Illustration: 15.—Ghizeh.]
+
+These detached spirals continued in use in the XIIth dynasty, generally
+as loose links, often not hooking together, as in this of Usertesen II.
+In the XVIIIth dynasty this is still found as a general surface ornament
+on the boat covers of Hatshepsut at Deir al Bahri and on the base of a
+Kohl vase in the Ghizeh Museum.
+
+[Illustration: Fig. 16. F.P. coll. Fig. 17.]
+
+But the spiral was developed, apparently under Usertesen I., into a
+chain of coils, which are drawn with great beauty and regularity. Such
+care indicates that the design was a novelty, which was not yet
+stereotyped and reproduced as a matter of course. In no later reign were
+spirals ever so beautifully and perfectly executed. This type was
+revived under Amenhotep II. (H. S. 1097). In about the XIIth dynasty it
+was combined with the lotus in perhaps the most perfect design that
+remains on any scarab—a continuous coil with flowers and buds in the
+spaces.
+
+[Illustration: 18.—Turin.]
+
+[Illustration: 19.—F.P.]
+
+But it was felt that the spirals all round occupied too much of the
+field, so the top and bottom were left free for inscribing, and the
+ornament was limited to the sides, as in this chain of hook pattern of
+Usertesen I. This design, with the line continued around the top as well
+as the base, was the staple decoration of the private scarabs of the
+XIIth-XIIIth dynasties, many of which are of great beauty. Both types
+are found, but the hook pattern is more usual than the coils.
+
+[Illustration: Fig. 20. F.P. coll. Fig. 21.]
+
+[Illustration: Fig. 22. F.P. coll. Fig. 23.]
+
+In the finest work, however, the line is made endless, a single
+continuous line forming the whole pattern, as in the endless hook
+pattern of Setmes, and the endless coil pattern of Ptaherduen.
+
+[Illustration: 24.—Paris.]
+
+[Illustration: 25.—F.P.]
+
+In the few spiral scarabs of later times the pattern is not only placed
+at the sides, but is carried all round, as we see in that of Amenhotep
+I. and one of Ramessu II., which latter is the latest spiral pattern
+known on scarabs.
+
+[Illustration: 26.—F.P. coll.]
+
+The long links were seldom used in continuous patterns around scarabs,
+as in this, but were more usually employed for independent spiral
+patterns without any inscriptions.
+
+[Illustration: 27.—F.P. coll.]
+
+[Illustration: 28.—K. x. 50.]
+
+[Illustration: 29.—I. viii. 69.]
+
+[Illustration: 30.—K. x. 28.]
+
+[Illustration: 31.—K. x. 40.]
+
+After serving as adjuncts to inscriptions, the spirals became elaborated
+as sole patterns. These are at first a few simple coils, as on one
+which, from the side pattern, can be dated to about the VIIIth dynasty.
+These, when elaborated with more coils or links, sometimes developed to
+great length.
+
+[Illustration: 32.—K. x. 17.]
+
+[Illustration: 33.—F.P.]
+
+[Illustration: 34.—I. x. 176.]
+
+Such patterns required but little ingenuity, and it is rather in the
+design of continuous spirals that the Egyptian showed his skill. The
+problem was how to arrange a number of coils in a symmetrical system
+uniformly covering the surface of the scarab, and yet to connect them in
+a true series. This was done in various ways, usually by introducing
+long loop lines around the edge. One of the simplest type is— In another
+a cross pattern is formed which is entirely of C coils, like frequent
+patterns at Mykenae.
+
+[Illustration: 35.—F.P.]
+
+[Illustration: 36.—F.P.]
+
+[Illustration: 37.—F.P.]
+
+Others fill up by establishing a repeating pattern, which might be
+indefinitely multiplied, as — and the difficulty is avoided on a large
+silver scarab of early date by shortening the links to allow of the
+connecting line passing the ends.
+
+This difficulty of designing good covering patterns out of true
+continuous lines probably led to the evasion of introducing false links.
+Thus what would otherwise have been an opening in the middle was barred
+across.
+
+[Illustration: 38.—I. x. 158.]
+
+[Illustration: 39.—K. x. 27.]
+
+[Illustration: 40.—K. x. 48.]
+
+[Illustration: 41.—F.P.]
+
+[Illustration: 42.—F.P.]
+
+Some beautiful effects were obtained by this false barring, which does
+not, at first sight, catch the eye, as in these two examples.
+
+[Illustration: 43.—F.P.]
+
+In the latter, two complete lop-sided spiral groups are joined by long
+false links around the outside. Another favourite device which often
+occurs is also compounded of lop-sided groups, or rather of a cross
+group, like Fig. 43, with four false links joining in the middle.
+
+[Illustration: 44.—I. x. 144.]
+
+[Illustration: 45.—I. x. 155.]
+
+[Illustration: 46.—F.P.]
+
+[Illustration: 47.—Turin.]
+
+Some other devices did not profess to cover the whole field, as in Figs.
+44 and 45; and sometimes two separate lines of design were superposed, a
+single element of the same design being found as late as Tahutmes III.
+
+
+The spiral had thus been greatly developed as a detached ornament for a
+small surface; but in architecture and furniture it was required as a
+continuous decoration on borders and on large surfaces. Hence its
+development was in many ways different, and—so far as we know—later by a
+whole cycle of history than the development on the scarabs. On those
+small objects it started in the Vth dynasty, became fully elaborated in
+the XIIth, is common in the XIIIth, and only very occasionally found in
+the XVIIIth, disappearing altogether in the XIXth. On walls and
+furniture it is rare in the XIIth dynasty, becomes usual in the XVIIIth,
+flourishes in the XIXth and XXth, and is decadent in the XXVIth.
+
+[Illustration: Fig. 48.]
+
+The simplest form in which it is found is as a chequered pattern series
+of S spirals, apparently on cloths thrown over boat cabins. On
+Hatshepsut’s boat the spirals are close together (Duem. XXI.); but
+rather later, on the boat of Neferhotep, they are spread with chequers
+of red and blue between them (W.M.C. lxvii.).
+
+[Illustration: Fig. 49.]
+
+About the same period they appear as a continuous coil pattern in relief
+on the columns of the _harim_ well at Tell el Amarna. The spiral in
+relief being in yellow, it probably was copied from a jewellery pattern
+in which a strip of gold was twisted into spirals, and the spaces filled
+with squares of coloured stones or pastes, judging from the analogy of
+the inlaid capitals. This example being earlier than most of the spiral
+decorations of surfaces may thus open our eyes to the meaning of some
+such designs; and, in general, a close continuous coil returning on
+itself may well be a copy of a strip of sheet metal, doubled, and rolled
+up.
+
+[Illustration: 50.—P. 85. I.]
+
+The next stage is where continuous lines of spiral patterns are placed
+side by side, and other patterns developed in the spaces between them.
+Sometimes the intervening patterns become so complex as to overshadow
+the mere spirals, as in the splendid ceiling of Neferhotep, in the
+XVIIIth dynasty. And in this the far more complex quadruple spiral
+begins to appear, as we shall see presently.
+
+[Illustration: 51.—P. 85.]
+
+[Illustration: 52.—C.M. cclv.]
+
+The lines of spirals were not only placed parallel, but were also
+crossed. For some reason this type was never well developed, but
+remained one of the coldest and most mechanical of all, looking in the
+later stage of the XXVIth dynasty like a most debased wall paper.
+
+But the glory of Egyptian line decoration was in the quadruple spiral,
+of which the most elementary example is on a boat cover as late as the
+XXth dynasty (Ramessu IV.); though it has passed through this stage long
+before that time—if indeed this may not be regarded as a degraded
+simplification of it. It is also sometimes rhombic in plan.
+
+[Illustration: 53.—P. 86.]
+
+[Illustration: 54.—XIIth dyn. R.C. lxxii.]
+
+From this was developed a peculiar pattern by the omission of the lines
+which define the spirals, thus reducing it to a system of rows of
+hollow-sided quadrangles without any apparent connection.
+
+The main development of the quadruple spiral was with rosettes or lotus
+filling the hollow squares.
+
+This became a stock subject with the Egyptian, and from thence a main
+pattern in other lands. The filling in was either a flower pattern or a
+rosette, which might be either a flower or a leather pattern, as we
+shall notice further on.
+
+[Illustration: Fig. 55.]
+
+[Illustration: 56.—P. 86.]
+
+The insertion also became more complex, four lotus flowers being placed
+in each angle of the hollow square; and the spirals being more heavily
+developed, in order to gain enough space for complexity in the squares
+between them. Such a system could hardly be carried further, but reached
+its limits; like the limit of size in the Great Hall of Karnak, where
+the columns occupy too large an area in proportion to the clear space.
+
+[Illustration: 57.—P. 83.]
+
+In another direction, however, the spiral blossomed further, in the
+parallel lines of spiral pattern. These became developed by introducing
+link lines so as to form a quintuple spiral, which was further
+complicated by lotus flowers and buds in the hollows and recesses.
+
+In this direction, again, the Egyptians had reached the limit beyond
+which more detail would be merely confusing. By careful use of colour to
+separate the various parts, these complex patterns remain clear and
+pleasing in spite of their richness of detail.
+
+The quadruple spiral had, however, another development, of C links,
+which is rather too formal to be beautiful, and lacks the flamboyant
+grace of the chains of spirals. Still it has a simple dignity, related
+to the scarab spirals rather than the flowing surface patterns. This
+became formalised into a torturing kind of design, which can only be
+described as “cursedly ingenious.” By simplifying the previous pattern,
+a wave was invented which was equal in each direction, and four of these
+were crossed in a manner which nothing but bold colouring could make
+intelligible.
+
+[Illustration: 58.—P. 85.]
+
+[Illustration: 59.—P. 83.]
+
+
+[Illustration: 60.—L.D. II. 57.]
+
+The fret patterns are all modifications of corresponding spirals. The
+cause of such change is obviously the influence of weaving. As early as
+the Vth dynasty we find a fret of rhombic form in basket-work in the
+screen behind the figure of Ptah·bau·nefer, at Gizeh. The angles show
+that the plaiting was in three directions, as we saw in the basket-work
+pattern at Benihasan (Fig. 3). But frets in general are very rare until
+a late period, and they doubtless depend on the adaptation of spirals to
+textiles. We see no trace of the fret in the Mykenaean art, the spiral
+there being figured on stone or metal, while the women wore flounced
+dresses with scale pattern. But in the pre-Persian age fret pattern
+weaving in borders was the standard design, as we see on the coloured
+robes of the Parthenon statues; and immediately after that the stiffest
+of square frets swarms over Greek art, to the exclusion of the graceful
+spirals and scroll borders.
+
+[Illustration: 61.—P. 82.]
+
+[Illustration: 62.—P. 83.]
+
+[Illustration: 63.—P. 83.]
+
+The chains of links were copied in the fret pattern with no difference
+except in squaring up the curves. The same is true of the quadruple
+spirals, which appear likewise modified; and this change seems to have
+led to another simplified form, which is on the same idea as the
+torturing design (Fig. 59), but which is less ingenious, and is still
+possible as an ornament.
+
+[Illustration: 64.—Schuck. 256.]
+
+So far we have viewed only the course of Egyptian design, nor can we
+travel far outside of it within these pages. Moreover, as it is dated
+before any other such decoration in other countries, it is well to view
+its course as a whole without confusing it with the various fragments
+borrowed from it by other lands. Yet we may well turn now to see the
+beginning of the course of European decoration at Mykenae, and observe
+its close contact with that of Egypt. The spiral is the main element of
+prehistoric decoration in Greece; the parallel chains of links occur
+almost exactly as we have already seen them in the pattern of
+Neferhotep, but omitting the inner details added in the spaces.
+
+[Illustration: 65.—Schuck. 290.]
+
+The quadruple spiral is splendidly shown in the ceiling of Orchomenos,
+with a lotus flower in each space; also as a simpler form without any
+filling in of the squares on the grave stele (Schuck. 146). While even
+the ox head with a rosette between the horns, in the grand quintuple
+spiral pattern (Fig. 57), is strangely paralleled by an ox head of
+silver with a large rosette on the forehead found at Mykenae (Schuck.
+248).
+
+In observing these equivalents it must be noted that whole patterns with
+their detail are taken over complete from Egypt. There are none of the
+series of intermediate steps which we have traced in the mother country;
+and where a simpler form occurs it is known to be later, the grave
+steles being after the age of the great ceiling. Thus there is the
+surest sign of a borrowed art, apart from the facts of the exact
+resemblances we have noted. Of course the Mykenaean designs are mostly
+influenced by the taste of the race. Many of them are strongly European,
+and might be of Celtic or Norse work, as has been shown by Mr. Arthur
+Evans; but the source of the designs lies in the two thousand years’
+start which Egypt had before Europe awoke.
+
+
+[Illustration: Fig. 66.]
+
+[Illustration: 67.—R.C. lvii.]
+
+[Illustration: 68.—P. 97. 105.]
+
+[Illustration: 69.—R.C. lxii.]
+
+A separate form of the spiral pattern is that used for borders,
+otherwise called the wave or maeander, which merged into the guilloche.
+Although the chain of coils on the scarab borders in the XIIth dynasty
+may be regarded as a wave border, yet no example is known of this border
+on other objects until the XVIIIth dynasty. At that time it appears as
+often on foreign objects as on Egyptian, and the only instance of the
+guilloche is on foreign dress. Hence this development of the spiral idea
+may well be due more to the Aegean civilisation than to that of Egypt.
+This will agree with the occurrence of the guilloche on black pottery
+from Kahun, which class, wherever it can be dated, is found to belong to
+the XIIth-XIIIth dynasty. The metal vases shown on the monuments of the
+XVIIIth-XXth dynasties are mostly foreign tributes, and on them the wave
+border is common, merging into a twisted rope border which is also
+found—though rarely—on scarabs of the Middle Kingdom.
+
+[Illustration: 70.—R.C. lvii.]
+
+[Illustration: Fig. 71.]
+
+[Illustration: Fig. 72.]
+
+In Egyptian use this border is seldom found. A box in the Louvre had a
+line of long links; and a scroll edge appears to the standard of Ramessu
+II. But more usually the scroll is associated with the lotus, as in
+these—
+
+[Illustration: 73.—P. 89.]
+
+[Illustration: 74.—P. 89.]
+
+The innumerable adaptations of this in Greek and later designs are
+familiar enough to us.
+
+The influence of weaving has been very great upon these wave borders. As
+I have before noticed, the woven borders, reducing the pattern to a
+fret, are shown on the pre-Persian statuary at Athens, and precede the
+most common and oft-repeated use of the fret or key pattern borders in
+Greece, and thence in all classical, mediæval, and modern times.
+
+[Illustration: 75.—R.C. cxxi.]
+
+[Illustration: 76.—R.C. lxi.]
+
+[Illustration: 77.—P. 103.]
+
+Another type of border, which may be connected with this, is found in
+the Ramesside age. As it occurs as stitching on leather, and is well
+adapted to quilting or sewing bands together, it may well have been
+derived from that; but it is also found on metal work, with which it
+does not seem to be connected by origin.
+
+[Illustration: 78.—P. and C. xiii.]
+
+The source of chequer patterns is unmistakably in plaiting and weaving.
+On the oldest monuments the basket sign, _neb_, is chequered in
+different colours; so are also the baskets of farm produce carried by
+the servants, as shown in the tombs. The modern Nubian basket-work is
+well known for the many patterns which it bears like the ancient
+Egyptian. The chequer pattern is found in every period in Egypt, and is
+perhaps most common in the latest forms on the sides of thrones in the
+Ptolemaic age. In the Old Kingdom many varieties were in use. The plain
+chequers of red or black with white, the squares filled with black and
+red crosses on a green and yellow chequer; or diagonal square patterns
+developed by lines of chequers, which are often not square but
+elongated, thus forming general and wide-spread patterns which attract
+the eye on large surfaces. These are best seen in the tomb of Ptah-hotep
+(P. and C. xiii.) and in that of Peheniuka (L.D. I. 41), both of the Vth
+dynasty, Sakkara.
+
+[Illustration: 79.—P. and C. xiii.]
+
+[Illustration: 80.—L.D. I. 41.]
+
+[Illustration: 81.—L.D. II. 130.]
+
+In the Middle Kingdom we find chequers covered with bars of colour, red
+and green, at Benihasan.
+
+[Illustration: 82.—P. 81.]
+
+Under the empire chequers are less common owing to the greater
+development of more elaborate decoration. A pleasing variety was formed
+by lengthening the squares, a change doubtless copied from weaving,
+where oblong squares serve to break the monotony of the pattern.
+
+[Illustration: 83.—L.D. iv. 77.]
+
+In later ages of the Saitic and Greek times the chequer is a common
+resource, but is seldom treated with originality or grace, and we do not
+find any new departure or advance in the mechanical execution of the
+later examples. One slight novelty was the alternation of whole and
+divided squares of colour, under Claudius.
+
+Somewhat analogous are the net-work patterns. They seem to be probably
+derived from stitch-pattern over dresses. Though found in the XIIth
+dynasty they are not usual until the XVIIIth dynasty, and they are
+generally on the dresses of goddesses. A simple example is on a
+horse-cloth of Ramesside age, which shows that these can hardly
+represent long beads, but rather stitching or quilting. A more elaborate
+form is on the dress of Bast in the tomb of Seti I., in hexagons.
+
+[Illustration: 84.—R.S. lxxxii.]
+
+[Illustration: 85.—C.M. ccxlii. cccx.]
+
+But this design rose to importance when it was introduced as an
+architectural element in the decoration of columns at Tell el Amarna.
+There it is coloured yellow, and the spaces are alternate red and blue.
+
+[Illustration: Fig. 86.]
+
+The Egyptians never used circles freely in decoration; no examples are
+known before the XVIIIth dynasty, and but few then.
+
+[Illustration: 87.—P. 79.]
+
+[Illustration: 88.—P. 84.]
+
+[Illustration: 89.—P. 86.]
+
+The intersecting circles, forming a kind of net-work, are found in the
+XVIIIth dynasty in blue on a yellow ground; and the same occurs in black
+on blue and red ground, in later times (L.D. I. 41). Besides the
+rosettes other patterns were introduced into the spaces, which were
+coloured red and green alternately. But the most beautiful type was with
+contiguous circles not intersecting, and each containing four lotus
+flowers.
+
+The circle, however, never became of importance, probably because it was
+too stiff and mechanical for the Egyptian, who delighted in the waving
+spiral patterns and the unlimited variety of lotus developments. It is
+remarkable that there is not a single example of the circle divided into
+six, or with six segmental arms, which is so common a motive in Assyria
+and Syria, and which results so readily from stepping the radius around
+the circle. This seems to show that the Egyptian did not use compasses
+at any time, but always worked with a string and points. The absence of
+a simple and self-evident motive like the sixth of the circle is almost
+more striking than a peculiar motive being present.
+
+
+
+
+                              CHAPTER III
+                          _NATURAL DECORATION_
+
+
+Though it might be supposed that the imitation of natural forms would be
+the earliest form of decoration, yet this is not the case. On the
+contrary, we find the geometrical forms of wave lines, and chequers
+copied from weaving, and the varieties of the spiral, were the first
+ornaments of importance in Egypt; while the natural forms of feathers
+and flowers were not generally imitated till a later time.
+
+One source of simple pattern that has been little noticed is the
+feather, and the variety of its forms. Fortunately we have these
+different forms shown unmistakably as feathers on the coffins of the
+Antefs in the XIth dynasty, before we find them in common use elsewhere.
+Hence we can have little doubt as to their real origin. On these coffins
+the royal mummies are figured as swathed around in protecting wings,
+representing those of Isis at the sides and of the vulture of Mut on the
+head. The feathers have different forms according to the part of the
+wing which they occupy. Thus on one coffin we find all of the following
+types of feathers:—
+
+[Illustration: Fig. 90.]
+
+[Illustration: Fig. 91.]
+
+[Illustration: Fig. 92.]
+
+[Illustration: Fig. 93.]
+
+[Illustration: Fig. 94.]
+
+Now when we have thus been shown the conventional types which were used
+to represent feathers, we can identify these again in many other places,
+where probably the original idea of feather work was entirely lost; and
+we have a new light on some representations not yet understood.
+
+[Illustration: 95.—Amenhotep I. R.S. xxix.]
+
+[Illustration: 96.—Amenhotep II. R.S. xxxvii.]
+
+On the kings of the XVIIIth-XXth dynasty we often see a wide belt
+covering the whole stomach, which is decorated with what is commonly
+called scale pattern. But this occurs in scenes which are not at all
+warlike, and where no defensive scale armour is likely to be
+shown—Amenhotep I. is seated as a god receiving adoration after his
+death; Amenhotep II. is represented adoring Ra. And in the second case
+the pattern is identical with the feathers on the Antef coffin. The only
+conclusion is that these represent belts of feather work worn around the
+body to prevent chill, like the voluminous waist shawl of modern
+Orientals. Such a feather belt would be admirable for lightness and
+warmth, but that it is not scale armour is seen from the absence of it
+in fighting scenes. On the contrary, in the royal campaigning dress
+another form of feather work is seen in the large wings of feathers
+which encircle the shoulders (Ramessu II., R.S. lxxxi.).
+
+This feather pattern is also very usual on the sides of thrones, from
+the XVIIIth dynasty down to the latest times. Here again it is evident
+that it cannot be scale armour; and a feather rug thrown across the
+seat, in place of the fur rug otherwise used, is a very likely thing to
+find in such a position.
+
+We may, then, take this pattern, when used on dress or on thrones, to
+represent feather work. But in later times it is also used on very
+incongruous objects. As early as the XVIIIth dynasty the feather pattern
+occurs around columns as an architectural ornament (Tell el Amarna), and
+with the characteristic marking also about the XIXth dynasty (P. 79);
+also on metal work (vase, P. 97), where it must be purely an artificial
+marking.
+
+[Illustration: 97.—P. 79.]
+
+[Illustration: 98.—P.R. lix.]
+
+[Illustration: 99.—R.S. lxxix.]
+
+It became elaborated under Seti I., with markings upon it, both on a
+dress of a god and on a throne-cover. And it became degraded into an
+unintelligible pattern under Ramessu II., when it appears as the dress
+of the god Amen.
+
+In later times the same pattern was used on columns at Philæ, in an
+inverted and very corrupt form.
+
+[Illustration: 100.—L.D. I. 108.]
+
+The other forms of feather pattern shown on the Antef coffin were also
+found later. But they merge so readily into mere line patterns that it
+is not likely that they were regarded as feathers in their later use.
+The V pattern is found on the columns at Tell el Amarna, on belts of the
+kings (L.D. III. 1), on painted wooden columns (P. 73), on the harps of
+Ramessu III. (P. 114), and many other places.
+
+
+The use of flowers for ornament is so natural that their occurrence in
+the earliest times is what might be expected. Yet but few flowers were
+adopted for decoration. The lotus is far the commonest, after that the
+papyrus, the daisy, and the convolvulus, together with the vine and
+palm, almost complete the material of vegetable designs. There is also,
+however, what may be called a generic flower ornament—the rosette—which
+is treated so conventionally that it can hardly receive any precise
+name. Sometimes in the XVIIIth dynasty it is clearly a daisy, very
+seldom has it the pointed petals of the lotus; and it fluctuates between
+the geometrical and the natural so as to defy details. One cause of this
+is the evident effect of leather work. The coloured leather funereal
+tent of Isiemkheb, found at Deir el Bahri, opens our eyes to a great
+deal. We there see an elaborate design, descending to long inscriptions
+of small hieroglyphs, all worked by cutting and stitching of leather.
+After this we can see in many of the Egyptian designs the influence of
+leather work; and nowhere is this plainer than in the rosettes. The
+earliest rosettes we know, those on the head-band of Nefert, at the very
+beginning of monumental history, are plain discs of colour divided into
+segments by white lines across them. These are discs of leather secured
+by radiating threads; and the same are seen in the XVIIIth dynasty, more
+varied by concentric circles of colours, probably successive superposed
+discs stitched down one over the other.
+
+[Illustration: 101.—P. 81.]
+
+[Illustration: 102.—P. 116.]
+
+[Illustration: 103.—P. 116.]
+
+Another stitch ornament is seen on the stuffs used for covering thrones
+in the XXth dynasty. There star and cross patterns are used which are
+evidently stitch work or embroidery; and in the spaces are discs of
+colour with white spots around, probably pieces sewn on by stitches
+round the edge. On a dress of Ramessu II. also are little six-pointed
+stars, which were doubtless stitch work.
+
+[Illustration: 104.—R.S. lxxxiii.]
+
+[Illustration: Fig. 105.]
+
+There can be no doubt of the effect that stitching has had on the use of
+rosettes, but other varieties are probably independent of that. The
+great series of rosettes is in the moulded glazed ware of Tell el
+Amarna; there several dozen varieties are found, varying from four
+petals to thirty-two. The more elaborate of these have an unmistakable
+daisy centre of yellow in the midst of white petals, and this indicates
+what was probably the flower in mind for most of them.
+
+The rosette is found in varied use. On metal vases it is very general,
+and may either be a separate ornament of beaten work riveted on, like
+the rosettes on the silver ox head at Mykenae, or else embossed
+_repoussé_ in the metal. Carved in wood or ivory, rosettes decorated the
+furniture; and they are constantly found as centre ornaments in square
+patterns, and along borders with the lotus or other subject.
+
+[Illustration: 106.—L.D. II. 130.]
+
+[Illustration: 107.—P. 84.]
+
+In patterns a frequent form is only four petals, or a cruciform flower,
+as at Benihasan in the XIIth dynasty; and this is varied by alternations
+of square and diagonal arrangement.
+
+[Illustration: 108.—P. 84.]
+
+A graceful, simple form, which again recalls leather _appliquée_, is
+yellow on a blue ground.
+
+[Illustration: Fig. 109.]
+
+[Illustration: Fig. 110—P. 81.]
+
+[Illustration: Fig. 111.]
+
+An allied pattern is the disc surrounded by spots. This is very usual on
+early Greek pottery, and is found on the Aegean pottery also. This is
+very rarely seen in pure Egyptian design, and only in the XVIIIth
+dynasty, when Mykenaean influence was strongest. On Neferhotep’s ceiling
+two forms are found, put between the horns of the bulls’ heads, like the
+rosette on the Mykenaean ox head. Elsewhere it is usually seen on the
+scarves of the negroes as a characteristic decoration, and on the dress
+of the Amu (C.M. cclviii.). Hence it appears to be distinctly a foreign
+ornament, like the other spot pattern on a zigzag line. Only three
+examples are published from Egyptian decoration, and those may well be
+due to foreign influence.
+
+
+We now reach the largest and most complex growth of Egyptian ornament in
+the lotus, so widely spread that some have seen in it the source of all
+ornament. Without going so far, we shall find plenty in it to tax our
+reasoning and imagination. If I prefer, in dealing with this, to ignore
+the developments of it seen outside of Egypt as aids to understanding
+it, this is only because those foreign examples are so much later that
+they are a reflex of various Egyptian periods, and cannot show anything
+certainly as to the long anterior course of development in Egypt itself.
+
+The debated question of lotus and papyrus disappears at once when we
+look at the feathery head of minute flowers which the papyrus bears.
+That some flower, such as a _nelumbium_, was confused with the lotus
+seems, however, very likely. There is no doubt that in ornament
+different flowers were sometimes confused, and their details mixed;
+hence it is of no use for us to be too particular in trying to separate
+them. We shall therefore use the name lotus in general without
+necessarily entering on botanical reasons for and against it on each
+occasion.
+
+[Illustration: 112.—L.D. II. 33; I. 27.]
+
+[Illustration: 113.—L.D. III. 68. XVIIIth dyn.]
+
+The oldest use of the lotus was in groups of two flowers tied together
+by the stalks; such are found on the prehistoric pottery at Koptos, and
+on the earliest tombs. But in later times this became corrupted, and the
+origin apparently forgotten, by the XVIIIth dynasty.
+
+[Illustration: Fig. 114.]
+
+[Illustration: 115.—L.D. II. 52. P. 74.]
+
+[Illustration: Fig. 116.]
+
+[Illustration: 117.—P. 79.]
+
+[Illustration: 118.—P. 21. L.D. III. 76.]
+
+The plain flower was also used very early, as we see on the head-band of
+Nefert at the beginning of the IVth dynasty. And as architectural
+ornament it appears as a capital in wood of the Vth dynasty in the tomb
+of Imery. At Karnak there is a celebrated pair of granite pillars, one
+with the papyrus, the other with the lotus; and this form, with the
+sepals turned over at the end, became the more usual in the Empire and
+later times.
+
+The variety of lotus capital is very great. The bud capital and the
+opened flower are both shown in the XVIIIth dynasty (tomb of Khaemhat);
+and many composite, complicated, and impossible combinations were piled
+together in the decadent age of the Ramessides.
+
+[Illustration: 119.—P. Mon. L.]
+
+[Illustration: 120.—R.C. lviii.]
+
+[Illustration: 121.—P. 88.]
+
+[Illustration: 122.—R.C. lxx.]
+
+The lotus was also much used in repetition as a border pattern, but not
+apparently before the XVIIIth dynasty; and usually it is in alternation
+with buds, which fit harmoniously into the curves between the flowers.
+This line of flowers and buds was varied as flowers and grapes, and
+appears very often in the XVIIIth dynasty.
+
+The flower and bud was further developed in a mechanical fashion, and we
+can trace a continuous series of forms beginning in a flower and bud
+pattern and modifying the intermediate member, until on reversing the
+line we find that something has been evolved which is indistinguishable
+from the Greek palmetto alternating with the lotus. The isolated
+anthemion, which is so much like this, has probably a different origin,
+as we shall soon see.
+
+[Illustration: 123.—P. 89. 8.]
+
+[Illustration: Fig. 124. 89. 9. 90. 4.]
+
+[Illustration: Fig. 125. 90. 5. 90. 6.]
+
+[Illustration: 126.—P. 90. 5.]
+
+Beside using the separate flowers, the whole plant was also a favourite
+subject as a group. In the earliest days we find it entwined around the
+hieroglyph of union, as we shall notice in considering the hieroglyphs.
+In the XIIth dynasty the plant appears as a recurrent group in surface
+decoration; though from the varying form of the flower it might be
+intended for lotus or papyrus.
+
+[Illustration: 127.—R.C. xciii.]
+
+[Illustration: 128.—L.D. III. 109.]
+
+In the XVIIIth dynasty it is more free, as might be expected in the time
+of Akhenaten.
+
+[Illustration: 129.—R.S. lxxxiii.]
+
+It is also seen as a foreign ornament on the dress of a Syrian slain by
+Ramessu II. at Abu Simbel, but in this case perhaps the tufted papyrus
+is intended. And in place of the rounded group which is usual in the
+XVIIIth-XIXth dynasties we find a different treatment on the throne of
+Ramessu III., in which it is kept more as a parallel pattern. This
+parallelism became general in later times, and the Ptolemaic walls are
+ruled over with stiff friezes of lotus and bud.
+
+[Illustration: 130.—P. 115.]
+
+[Illustration: 131.—L.D. II. 35.]
+
+[Illustration: 132.—L.D. II. 64.]
+
+These wall basements are preceded by groups of flower and bud in scenes,
+which are of the same style, as early as the IVth dynasty, on the tomb
+of Debuhen. Here it may be the papyrus; but in the Vth dynasty, on a
+basket-work screen, the lotus and bud is clearly shown. This pattern,
+however, is very seldom found as a general architectural ornament until
+we come down to the dull sterility of the Ptolemaic and Roman age. Then
+the lower part of each wall is uniformly ruled with an endless series of
+flowers and buds on long stems in monotonous order.
+
+[Illustration: 133.—P. 88. L.D. iv. 84.]
+
+
+We now come to the ornamental development of the flower into a
+monstrosity, which is only decorative and not natural, and which
+requires some thought and comparison to understand its origin.
+
+[Illustration: 134.—P. 79.]
+
+First there is the _fleur-de-lys_ type, with curled-over sides and a
+middle projection. This has not been yet explained satisfactorily; but a
+principle which was first clearly formulated by Borchardt (A.Z. xxxi. 1)
+will show the origin of this as well as of the succeeding forms. The
+Egyptian, it seems, consistently drew the interior or top view of an
+object above the side view. In short, they suppose things to be seen in
+a bird’s-eye view, and expressed that by drawing—for instance, a cup—in
+side view and partly in top view above that. A dish would be drawn in
+side view, and a top view of its compartments and contents placed over
+it, and the bunch of flowers that lay on it is again placed over the top
+view. Now on this principle we can see that the projection in the midst
+of the lotus flower is the third sepal at the back of the flower, the
+fourth, in front, being so foreshortened as to disappear altogether.
+
+[Illustration: 135.—T.A. I.]
+
+[Illustration: 136.—T.A. 368.]
+
+[Illustration: 137.—T.A. 381.]
+
+[Illustration: 138.—T.A. 388.]
+
+This view is further complicated by showing not only some of the four
+outer sepals, but also some of the petals, usually three. Here the near
+sepal is shown rising in front, and then above these everted sepals are
+three of the inner petals of the flower. These might be increased to
+five or seven, but were generally an odd number; and they were at last
+evolved to a fan of petals, in which the treatment of the dish of fruit
+just shown is exactly reproduced, a side view of the flower being
+crowned by a top view of it showing the radiating petals in the
+interior.
+
+[Illustration: 139.—T.A. 375.]
+
+[Illustration: 140.—T.A. 374.]
+
+So far we are on clear ground. Now we come to a more complex form, which
+has also not yet been explained. In the XVIIIth dynasty (from which we
+must mainly draw, as we have the long series of varieties in the glazed
+ornaments of Tell el Amarna) a strange form appears, with reversed
+curling arms above the calyx. Now we have seen that a third sepal is
+shown from the back of the flower, and the fourth is omitted which lay
+in front. But this was an imperfect flower, and so a diagonal point of
+view was taken, in which two sepals lay nearest and were seen in side
+view, and the two behind them were seen over them. Sometimes they are
+curled alike, but more generally they are curled different ways, the
+nearer ones downwards, the further ones upwards. Hence we get this very
+mechanical form, which was greatly developed in Assyrian and Greek types
+of the pattern. If it can be proved that the Assyrian tree pattern is
+earlier than this development, we could then grant what seems a likely
+influence on the development of this pattern. It was so far removed from
+a natural view that it soon became greatly varied and amplified, as on a
+bracelet in the Louvre.
+
+[Illustration: 141.—P. 113.]
+
+[Illustration: 142.—P. and C. Ass. 127.]
+
+[Illustration: 143.—Tanis II. xxxi.]
+
+[Illustration: 144.—Goodyear. 75.]
+
+In Assyria this became a staple design, in which the top was greatly
+increased at the expense of the lotus sepals below; but still the four
+sepals, two front and two back, are shown. In the Greek designs, however
+barbarous they may seem in comparison, owing to their hopeless
+divergence from any rational type, yet the same elements remain, and the
+four sepals can be traced below the view of the petals in the flower.
+Thus the anthemion with its double curves is fully accounted for, the
+lower and upper sepals being still distinguishable in the two spirals on
+each side at the base of it. The later changes of this necessarily
+belong to Greek art, and we cannot here follow them out.
+
+[Illustration: Fig. 145.]
+
+A late development of the lotus in Ptolemaic Egypt was with a central
+spike through the face of petals. As this spike rises from the base, it
+appears to be the front sepal rising before the petals.
+
+[Illustration: 146.—P. 111.]
+
+Another variety in this pattern remains to be noticed. On very many
+compound lotus patterns there is a pendant from each end of the side
+sepals. This does not appear until the XVIIIth dynasty on the monuments:
+it is then sometimes single and sometimes double. But here, as in the
+spirals, the scarab type is an earlier stage than the architectural. On
+the architecture it is quite unintelligible, and a mere conventional
+monstrosity; while on a scarab of green jasper—which from the style and
+material seems certainly to be before the XVIIIth dynasty, and probably
+of the XIIth—there is an already conventionalised lotus group, with the
+four sepals and inner petals already developed into a sort of “tree
+pattern,” and the lower two sepals have a pendant, partly worn away, but
+clearly showing a triply-branching line like a small lotus flower. This
+is the earlier stage of this conventional pendant; but even here,
+although the pendant itself is rational, the position of it is hard to
+explain. Probably we must wait for some early scarab to clear up the
+real origin of this curious and puzzling form.
+
+[Illustration: 147.—F.P. coll.]
+
+We have now traced the evolution of the various forms of the lotus
+pattern in Egypt, and seen how the main Assyrian and Greek types of the
+palmetto and the anthemion arose, which were confounded together owing
+to their similarity.
+
+Other plants were often confounded with the lotus in decoration, by the
+ancients as well as by moderns. We have noticed some examples of this;
+and it is well shown in the group of boat-builders, to whom, apparently,
+bundles of papyrus with lotus flowers are being brought, in the IVth
+dynasty tomb of Shepseskau (L.D. II. 12).
+
+Much use was made of papyrus in the floral work of Tell el Amarna. On
+the painted pavement groups of papyrus with large red fluffy heads of
+seed vessels are figured; and on the coloured tiles the landscape view
+of the papyrus plant in strictly natural treatment is a frequent
+subject. But these belong rather to artistic than to ornamental work.
+
+
+[Illustration: Fig. 148.]
+
+[Illustration: Fig. 149.]
+
+In architecture the lotus and papyrus were largely used, in fact they
+form the basis of columnar decoration as distinct from that of pillars.
+The earliest figure of a column that is known is as far back as any
+dated monument we possess at the beginning of the IVth dynasty; and
+there it is fashioned as a stem and flower, probably carved in wood. The
+contracting connection with the tenon above, in a bell form, on the top
+of the flower, is the same as columns of the VIth dynasty (L.D. II.
+111); and is the source of the much later columns of Tahutmes III. at
+Karnak, which otherwise seems to be an unaccountable “sport.”
+
+[Illustration: Fig. 150.]
+
+[Illustration: Fig. 151.]
+
+[Illustration: Fig. 152.]
+
+In the figures of wooden columns in the Vth and VIth dynasties, the
+lotus form prevails, as we have already noticed, and here repeat.
+
+In the Vth dynasty, in the tomb of Ptahshepses at Abusir the clustered
+papyrus stems are a new feature; at Benihasan they are well developed;
+and they continued in use to the XVIIIth dynasty. But a different type
+then arose into predominance in the wide bell-topped lotus capitals, and
+with long sheath-leaves around the root; and this continued for several
+dynasties. But this was displaced by the elaborate composite capitals of
+Ptolemaic and Roman age, which were made up of varied elements of
+incongruity.
+
+[Illustration: Fig. 153.]
+
+The palm, though the most important tree of the country, has had but
+little effect on the architecture. There is not a single example of
+columns copied from a palm stem; and the only instances of the imitation
+of the stem are in two or three instances of copies of roofing beams.
+The branches are not copied on columns until other subjects were well
+used. In the XIIth dynasty the imitation of a bundle of palm branches
+was made in the capitals, and it became common in the XVIIIth. Perhaps,
+however, as we shall see in considering the hieroglyphs, the palm column
+originates with a bundle of palm-sticks bound together. It is strange
+that the simple element of grouping branches round a post should not
+have been a very usual early motive. Was the palm really common in early
+Egypt? It does not enter into the hieroglyphs, and it is seldom shown on
+monuments till the XVIIIth dynasty; while grapes, figs, and pomegranates
+all seem to have been commoner than dates.
+
+In late times not only the branches but the fruit was sculptured; and at
+Esneh and other Roman temples the bunches of dates are carefully
+rendered.
+
+The vine is one of the oldest cultivated plants in Egypt, and all the
+designs copied from it are based on the idea of its climbing and
+trailing over the houses. It appears mainly in the florid work of the
+XVIIIth dynasty. The ceiling was often painted of a golden yellow, with
+vine leaves and bunches of grapes hanging from a trellis pattern which
+covers it. At Tell el Amarna some fragments found were very free and
+natural, but in the XXth dynasty it became a stiff and formal affair.
+(Tomb of Aimadua, Ramessu X.).
+
+[Illustration: 154.—P. 86.]
+
+Bunches of grapes also formed favourite pendants; as such they are
+painted in rows hanging from architraves of wooden buildings (tomb of
+Ra, Amenhotep II.); and frequently in blue glazed ware bunches of grapes
+are found of varying sizes, with half of the upper part cut away so as
+to affix them by a peg-hole to a square wooden beam of the ceiling.
+
+[Illustration: 155.—P. 79.]
+
+[Illustration: Fig. 156.]
+
+In the Greco-Roman decoration of capitals the vine and grapes also
+appears, and is often very beautifully treated, as at Esneh, though
+essentially as a mere surface decoration, and not as an organic element.
+
+The convolvulus has scarcely, if at all, been acknowledged as an
+Egyptian ornament. Yet it often occurs during the XVIIIth and XIXth
+dynasties. On a coffin in the Ghizeh Museum a long trail of convolvulus
+is beautifully modelled and painted; and during the tide of naturalism
+under Akhenaten the wild flowing stems were a favourite element of
+decoration.
+
+[Illustration: 157.—P. 91.]
+
+Subsequently the convolvulus is often shown as a climber on the lotus or
+papyrus stems in bouquets; and though its leaves then have been
+miscalled lotus buds, or “tabs,” yet they are clearly intended for a
+natural leaf of this climber, which is so common in the Egyptian fields.
+
+[Illustration: 158.—P. 91.]
+
+Another field plant which played a great part in the glazed decorations
+was the thistle. This is naturally painted on the glazed tiles; and the
+glazed pendants of necklaces and wall decoration showed an abundance of
+thistles with green calices and purple petals. But this, like the
+convolvulus, was rarely used except during the beautiful period of
+naturalism which was most developed by Akhenaten.
+
+Artificial combinations of flowers also became used decoratively. We
+have just instanced two examples from the great bouquets or staves of
+flowers which the Egyptians used in ceremonies.
+
+The garlands of flower petals which are seen on the heads of women, or
+as collars, in the XVIIIth-XXth dynasties were also placed around the
+water-jars; and hence a painted pattern of garlands came to be used on
+those jars.
+
+[Illustration: Fig. 159.]
+
+In architecture also the garland came into use, sometimes carved on the
+stone around the columns, sometimes made in coloured glaze and inlaid in
+the surface.
+
+[Illustration: 160.—T.A. ix.]
+
+Wreaths of lotus flowers and buds were also represented around the
+columns at Tell el Amarna.
+
+The great pectorals, or breast-plates, of successive strings of flowers
+and leaves were prominent in the personal and religious decoration. The
+sacred barks of the gods were adorned with large and complex
+breast-plates, probably made of bronze, gilded and inlaid (L.D. III.
+235).
+
+[Illustration: 161.—P. Mon. xlix. 2.]
+
+A small example of such we have in London, with the details all inlaid
+in gold. These pectorals were also represented on the later vases as a
+complete whole.
+
+
+[Illustration: 162.—L.D. III. 76.]
+
+Turning now to the men and animals shown in decoration, in the period of
+the Empire we constantly see figures of captives introduced to emphasise
+the power of the king. These first appear in the great change which
+overcame Egyptian art consequent upon the Asiatic conquests. Before
+Tahutmes III. the character and style of work continually recalls that
+of the XIIth dynasty; but within one or two generations a profound
+difference changed for ever the nature of the art, and this is reflected
+in the national handwriting, which shows a similar break. Amenhotep II.
+appears on his nurse’s knee with an emblematic group of foreigners under
+his feet, while he grasps cords tied to their necks; and in the same
+spirit he is shown, when grown up, as smiting at one blow a whole bunch
+of captives whom he holds in his left hand (L.D. III. 62; L.D. III. 61).
+Tahutmes IV. similarly is seen seated on his tutor’s knee, with his feet
+on a footstool ornamented with prostrate captives (L.D. III. 69).
+Amenhotep III. appears with figures of a negro and a Syrian bound to the
+_sam_ sign on the sides of his throne, and henceforward the abasement of
+captives was an essential idea to Egyptians. But it should be remembered
+that common as the notion was in late times, it is originally Asiatic
+and not Egyptian; the king trampling on the nations and making foes a
+footstool are ideas not found in Egypt until the Semitic conquests of
+Tahutmes III., though the earliest figure of a sphinx trampling on a
+captive is under the XIIth dynasty.
+
+[Illustration: Fig. 163.]
+
+Under Akhenaten six various races are represented on the sides of his
+great balcony (L.D. III. 109), and the alternate negroes and Syrians are
+painted on the passage floors of his palace, or carved in blocks of
+alabaster to be trodden under foot. Down the various ages this symbolism
+recurs in decoration until in Ptolemaic and Roman times every decent
+Egyptian had captives painted on the soles of his sandals in which he
+was buried, so that for all eternity he might tread down the Gentiles.
+
+[Illustration: Fig. 164.]
+
+Among animals a favourite in decoration was the ibex, but it was not
+introduced till the XVIIIth dynasty. It often appears on the
+finger-rings of Akhenaten’s time, and later upon the funeral tent of
+Isiemkheb, ingeniously adapted to fill a square space.
+
+The bull or young calf was more frequently introduced; on the wooden
+boxes and trays it is shown as bounding in the meadows, and it is
+continually used in the groups of the painted pavement at Tell el
+Amarna.
+
+Birds are also a common subject for decoration, though only dating from
+the same period as the other animals. Besides the symbolic or sacred use
+of the hawk and vulture, the very secular duck was a favourite bird. On
+the great pavements of Akhenaten it appears above every group of plants.
+
+[Illustration: Fig. 165.]
+
+On rings it is often engraved fluttering above its nest; and in the
+decadence of Egyptian art in the XXth dynasty the incongruous idea was
+adopted of birds, eggs, and nests all upon a ceiling.
+
+
+The natural ceiling pattern adopted from the early days of Egyptian art
+was of golden stars on a deep blue ground; not a dark daylight blue, as
+in modern imitations, but a black night blue. These are always
+five-pointed stars, with a circular spot, usually of red, in the centre.
+
+[Illustration: Fig. 166.]
+
+It is noticeable that the Egyptian views a star as surrounded by long
+streamers of light; because to a long-sighted person, or any one with
+proper spectacles, the stars appear as points of light without
+radiations. Hence it seems as if the Egyptians were short-sighted people
+from the early ages.
+
+[Illustration: Fig. 167.—L.D. II. 19.]
+
+[Illustration: Fig. 168.]
+
+Lastly we may notice the base imitation of nature in copying the grain
+of wood, which we find done in the earliest times of the IVth dynasty,
+and continued down to the period of the Empire. Stones were also
+imitated by painting, and red granite is frequently copied in the
+earlier days, on the recessed doorways of tombs. In later times vases of
+valuable stone were imitated by painting over a pottery vase, and such
+cheap substitutes were commonly placed in the tombs.
+
+These base imitations are of æsthetic interest as showing in what a
+different manner the Egyptian viewed his materials from that of our
+standpoint. He stuccoed and painted over his hard stone statues; it was
+enough for him to know that the stone was hard and imperishable—he did
+not need to see it always exposed. The imitation of nature was the
+standpoint from which he started, and he had no objection to carry out
+that imitation with paint or otherwise; our abstract standpoint of an
+artistic effect which must never involve falsity, but which may have
+little or nothing to do with nature, was altogether outside of his
+æsthetic.
+
+
+
+
+                               CHAPTER IV
+                        _STRUCTURAL DECORATION_
+
+
+In the persistence of certain forms which were the direct result of the
+structure of a building or object, we have a very considerable source of
+decoration. In Greek architecture many of the details are entirely the
+product of wooden construction translated into stone. The triglyphs, the
+imitation of nail heads, of the ends of the poles supporting the
+roofing, of the crossing of beams at the coffers, are all details which
+are retained as decoration long after they ceased to have any structural
+meaning, owing to an entire change of material. Such is structural
+decoration in its best known forms. But the same principles equally
+apply to Egyptian architecture; there the original material was not sawn
+wood as in Greece, but rather the papyrus and palm branch, with the
+ever-present mud plastering and mud bricks. The decorative details of
+the stone architecture have come down from this stage of building,
+translated point for point into stone, just as the Greek translated his
+wooden architecture into marble.
+
+But pottery preceded stone in Egypt, and one of the simplest of
+ornaments arose from structural necessity. To this day may be seen in
+the Egyptian pottery yards bowls and jars held together by a twist of
+rough palm fibre cord, while they dry in the sun before baking. This
+accidental marking by the rope in the wet clay is seen on the pottery of
+all ages; but it became developed as a pattern apparently in the twist
+or guilloche, which may perhaps be rather derived from this than from
+the chain of coils or wave pattern.
+
+[Illustration: 169.—H.S. 383.]
+
+[Illustration: 170.—Kahun Pot.]
+
+[Illustration: 171.—L.D. II. 63.]
+
+Basket-work was elaborately developed in the Old Kingdom. There were
+beautiful screens represented behind the figures of the owners of the
+early tombs; they might in some cases be matting instead of basket-work,
+but others of the patterns appear certainly to be of a rigid material.
+In no case are they likely to be “mats on which the kings stand,” as
+styled by Owen Jones. Among the various patterns of platting which are
+readily developed, squares, waves, zig-zags, chequers, &c., there are
+some made by binding the fibres into bundles, and so making a kind of
+open work, which may well have led to the pattern of connected rhombs
+which is so usual on Oriental pottery.
+
+[Illustration: 172.—L.D. II. 63.]
+
+[Illustration: 173.—L.D. II. 17.]
+
+One of the most familiar early motives is wooden framing. This is
+continually imitated in the stone figures of doorways in the tombs. The
+details of it show that a frame or grate of joinery must have been used
+for the porch of large houses, so as to admit light and air while the
+door was fastened. The prevalence of such wooden frames or lattices in
+modern times in Egypt—known as mushrabiyeh work—shows how suited such a
+system is to the climate. Long after the use of stone was general the
+frames were imitated, and the pattern survived as a decoration. The same
+style of framing was used in the upper part of a house, with decorative
+uprights of the hieroglyph _tat_, and was copied as a fancy decoration
+in furniture, as seen in a beautiful ivory carving in the Louvre. This
+style survived until the XVIIIth dynasty, when it is seen in a tomb at
+Thebes (Amenhetop II., Prisse Art) and at the temple of Sedeinga under
+Amenhotep III.
+
+[Illustration: Fig. 175.]
+
+[Illustration: Fig. 174.—Ghizeh.]
+
+
+Much akin to this wood framing is the panelling of the brickwork which
+is seen in the earliest examples in Egypt, and is identical with the
+panelling of walls in early Babylonia, one of the indications of a
+common civilisation of the two great valleys. This panelling does not
+seem to have lasted beyond the Old Kingdom; there was no trace of it
+found at Kahun or Gurob, in the buildings of the XIIth and XVIIIth
+dynasties, nor does it appear in any drawings or imitations of
+buildings.
+
+[Illustration: 176.—P. M. vii. (plan).]
+
+[Illustration: Fig. 177.]
+
+One of the best known characteristics of Egyptian architecture is the
+sloping face of the walls and pylons. This is directly copied from
+brickwork. In order to give more cohesion to a wall it was the custom to
+build it on a curved bed, so that the courses all sloped up outwards at
+the outer corners. Thus the outer faces sloped inwards, and the wall had
+more stability. So wedded were the builders to this method, that where a
+long wall of a fort or city was to be built they preferred to begin with
+a row of towers of brickwork thus arranged, and then to fill in the
+spaces between them with more plain walling. This slope of the walls was
+copied in stone at the earliest time. The temple of Sneferu at Medum has
+a slope on the face of about 1 in 16, and it was continued down to the
+very latest age of Roman building.
+
+[Illustration: 178.—Perring. L.D. II. 44.]
+
+Another familiar feature is the roll or torus down the corners of the
+buildings. It is usually ornamented by a pattern of binding. This—as was
+well pointed out by Professor Conway—is evidently a bundle of reeds
+bound together, and put down the angle of the plastering in order to
+preserve it from breaking away. Such a construction was an ugly
+necessity at first, but when stoneworking arose it had become so
+familiar that it was faithfully copied in stone as a decoration, and
+continued to be so copied for more than four thousand years, as long as
+Egyptian architecture lasted.
+
+
+[Illustration: Fig. 180.]
+
+[Illustration: Fig. 179.]
+
+[Illustration: 181.—L.D. II. 112.]
+
+The well-known Egyptian cornice has been so long taken for granted that
+it might seem never to have required an origin. Yet in the villages of
+the Fellahin to-day palm cornices may be seen in course of development.
+A fence is formed of palm-sticks, placed upright, and stripped of leaves
+for some way up. The tops are left bushy, and serve to prevent men or
+animals climbing over the courtyard wall. The upright sticks are tied
+together by a rope near the top, or lashed on to a cross line of sticks.
+The fence is stiffened below by interweaving other palm-sticks in both
+directions; and then the whole is plastered with mud up to the tie
+level. Here we have the cavetto cornice being formed by the nodding tops
+of the branches; and to clinch the matter, the earliest representations
+of that cornice are on figures of buildings which show the crossed
+sticks of the fence below the cornice. The ribbing of the cornice is
+seen on the earliest examples, on Menkaura’s sarcophagus in the IVth
+dynasty (Perring), in the Vth dynasty (L.D. II. 44) and the VIth (L.D.
+II. 112), and such was copied until late times. But in the more
+decorative cornices of the XVIIIth dynasty the ribbing was broken up by
+cross lines, sometimes curved upward, sometimes downward. These cross
+lines must be a degradation of the leaves of the palm branch. In later
+times they are omitted, and the pattern becomes simply striped.
+
+[Illustration: 182.—L.D. III. 115.]
+
+[Illustration: Fig. 183.]
+
+This cornice was copied in Syrian architecture, in the plain form
+without ribbing, as in the tomb at Siloam and the slabs of Lachish; but
+it does not appear to have ever taken root in Assyria, though attempted
+there, nor is it known in Europe.
+
+[Illustration: Fig. 184.]
+
+The other main type of Egyptian cornice is what is known as the
+_Khaker_, from the equivalent of the sign as a hieroglyph in
+inscriptions. This only means “to cover” or “to ornament,” and therefore
+refers to the position of the decoration and not to its origin. The clue
+to the real nature of this decoration is given in a tomb of the IVth
+dynasty (Ptah-hotep, L.D. II. 101. b.), where we see the _khaker_
+ornament not as a mere painting, but represented as standing up solid
+around the tops of the cabins of boats. It cannot therefore be anything
+very heavy or solid, such as spear-heads, as has been proposed. It
+probably results in some way from the construction of the cabins. They
+must have had roofs of very light material. Papyrus was generally used
+for building boats, and therefore for cabins also, most likely. This
+gives us the clue to interpret it. Suppose a screen of papyrus stems;
+the roofing stems tied on to the uprights; and the loose wiry leaves at
+the head tied together, to keep them from straggling over and looking
+untidy. Here we have all the details of the _khaker_ ornament simply
+resulting from structural necessity. The leaves are gathered together at
+the lower tying; there the end view of the concentric coats of the
+papyrus stems of the roof are seen as concentric circles; above which
+the leaves bulge out and are tied together near the top. Though this
+structural decoration is seen on the top of boat cabins as early as the
+IVth dynasty, yet we have not found it as decoration on a flat surface
+until the XIIth. Then it is very common; but its meaning became confused
+in the XVIIIth dynasty, and in Ptolemaic times it is seen in absurd
+positions, as on a base, and on architraves above an empty space, where
+no stems below it were possible.
+
+[Illustration: 185.—Prisse 88.]
+
+
+We have just mentioned one use of reeds or papyrus in the torus roll on
+the edge of buildings; but on interior decoration we meet again with the
+same motive. The borders of Egyptian scenes from the earliest times are
+framed with a variety of bindings; and so suitable did such bordering
+seem that it was continued with but little variation throughout all the
+history. The oldest forms are—
+
+[Illustration: 186.—L.D. II. 43.]
+
+plain binding,
+
+[Illustration: 187.—L.D. II. 44.]
+
+a diagonal binding,
+
+[Illustration: 188.—L.D. II. 44.]
+
+or
+
+[Illustration: 189.—L.D. II. 54.]
+
+and crossed binding.
+
+[Illustration: 190.—L.D. II. 148.]
+
+[Illustration: 191.—L.D. II. 132.]
+
+The latter became modified into— by the XIth dynasty, showing that its
+meaning was already becoming forgotten. But a modification of the tower
+ends of this pattern in the XIIth dynasty is difficult to understand;
+unless we can look on it as an irregular winding of the ends of the cord
+around the reed bundle in place of the regular crossing which is shown
+above it.
+
+[Illustration: 192.—L.D. II. 115.]
+
+The modification of colours and arrangement in the plain binding is
+interminable. In the XVIIIth dynasty we find
+
+[Illustration: 193.—L.D. II. 136.]
+
+in the XIXth
+
+[Illustration: 194.—P. 72. 76.]
+
+in late times
+
+[Illustration: Fig. 195.]
+
+and in all ages a binding with a number of lines between coloured spaces
+was common
+
+[Illustration: Fig. 196.]
+
+and on borders of architecture and statuary thrones
+
+
+
+
+                               CHAPTER V
+                        _SYMBOLICAL DECORATION_
+
+
+The Egyptian who expressed all his thoughts by a symbolical writing,
+full of determinatives, was naturally much given to symbolism in his
+decoration. Not, however, that all his decoration was symbolic in a
+recondite sense; the ever-present lotus ornament was merely a thing of
+beauty; the lotus was not a sacred plant, it is not associated with any
+divinity in particular, and only in one unusual instance does it ever
+occur in the hieroglyphs. The fanciful habit of Europe, in seeing a
+hidden sense in every flower, was not akin to the simple and elementary
+mind of the Egyptian. But certain striking emblems he used continually;
+and one of the earliest of these is the uraeus snake, or cobra in his
+wrath, reared up with expanded body ready to strike. The dignity and
+power of the animal made it to be an emblem of the king, or rather
+perhaps of the royal power of death. That capital punishment was used in
+Egypt is seen in the Westcar Tales, which probably date from the Old
+Kingdom, where a condemned malefactor is ordered to be brought forth for
+a magician to try his power in bringing him to life when slain. The
+king, as having the power of death, bore the uraeus always on his
+head-dress; and from the earliest days (at Medum) the royal court of
+justice was adorned with a cornice of uraei, implying that there resided
+the royal right of judgment and of condemnation. This cornice seems,
+however, to have been regarded as merely royal in later times, and was
+freely used to adorn any royal structure, even a wooden summer-house
+(Amenhotep II.); or the uraei formed a band around columns (Akhenaten),
+or appear as supporters of the royal cartouche (P. 72), either plain
+(Ramessu II.) or winged (Horemheb L.D. III. 122).
+
+[Illustration: Fig. 197.]
+
+[Illustration: 198.—P. 72.]
+
+[Illustration: Fig. 199.]
+
+[Illustration: 200.—Khufu.]
+
+[Illustration: 201.—Unas.]
+
+[Illustration: 202.—L.D. III. 122a.]
+
+A symbolism closely connected with this is that of the globe and wings.
+This certainly dates to the beginning of the monumental age, as it is
+seen above the figure of Khufu seated on an amulet. In that instance it
+is on too small a scale to show the details; but in the next dynasty it
+appears above Unas at Elephantine, with the globe flanked by two uraei
+and two wings. What the symbolism of it was we have no direct
+information. But when we consider that the wings are those of the
+vulture spread out, as it appears on the roofs of the passages as a
+protecting and preserving maternal emblem, and the uraeus is associated
+with it, we can hardly view it as other than the same idea of the power
+of life and death, of preservation and destruction. But in this emblem
+it is not the king who wields these powers, but Ra the Sun, whose disc
+appears in the midst. That the wings have thus the meaning of protection
+is shown by the globe with drooping wings embracing the royal name,
+expressing the protection given by Ra to the king, without associating
+the deadly or punitive power of the uraeus. A curious form of this
+emblem which was common in the early part of the XVIIIth dynasty is with
+only one wing.
+
+[Illustration: 203.—L.D. III. 8.]
+
+[Illustration: 204.—P. 72.]
+
+One of the most perfect and beautiful examples of the winged disc is on
+the temple of Tahutmes III., but it continued to be used down to the
+latest times of Egyptian architecture as a lintel decoration.
+
+In the XIXth dynasty an addition to the symbolism appears; the horns of
+a ram are added to the wings; sometimes without the uraei (Ramessu I.,
+L.D. III. 131), sometimes with the uraei (Ramessu II., L.D. III. 204).
+These rams’ horns can hardly be other than those of the ram-headed god
+Khnum, “the maker” or “modeller” of men. The idea then of the wings and
+horns is that Ra makes as well as protects; and where the uraeus is
+added it implies that Ra is creator, preserver, and destroyer.
+
+
+The vulture alone as the emblem of protection is frequently figured with
+outstretched wings across the ceilings of the passages, particularly
+those of the royal tombs of the XIXth dynasty. There is perhaps no sight
+in the animal world more imposing than one of these birds, stretched out
+with a span of some nine or ten feet, hanging in the air close overhead;
+it is natural that it should have excited the admiration of man, and not
+being hurtful it readily came to be honoured as a type of maternal care.
+
+[Illustration: 205.—P. 81.]
+
+[Illustration: 206.—L.D. III. 235.]
+
+The scarab was another such typical animal, rolling the pellet
+containing an egg to a safe place where it buries it. Though very common
+as an amulet for the living and the dead, yet it is not often seen in
+symbolical or decorative use otherwise. With what idea the amulet was
+used we do not know for certain. The scarab itself is often figured as
+holding the disc of the sun between its claws: and it is at least
+possible that the symbolic idea of the scarab as the maker or creator
+arose from the burial of its ball being an emblem of the setting of the
+sun, from which new life will arise in due course. It occurs with the
+wings extended and the disc between the claws as a centre figure in the
+space of a ceiling pattern (Neferhotep, XVIIIth dynasty), and on the
+border of the covering of a shrine under Ramessu X., and is occasionally
+met with later in decoration.
+
+[Illustration: 207.—R.C. cxxx.]
+
+[Illustration: 208.—P. 78.]
+
+[Illustration: 209.—L.D. III. 100.]
+
+The lion as a noble and royal animal frequently figures in the XVIIIth
+dynasty. The Egyptians, with their marvellous instinct for taming every
+animal they could find, actually trained lions or leopards to live as
+domesticated animals, with the same sort of allowed wildness as modern
+hunting dogs. The lion accompanied the king in battle; but in camp it
+lay down as peaceably as an ox. It was frequently carved on the sides of
+the thrones of the XVIIIth-XXth dynasties, and also seated in pairs,
+facing or backing, on the temple walls, a usage reminding us of the lion
+gate of Mykenae of the same age.
+
+
+[Illustration: 210.—L.D. III. 114]
+
+[Illustration: Fig. 211.]
+
+Some of the Egyptian divinities also appear as symbolic ornaments. The
+figures of the goddess Maat with spread wings adorned the ark of Amen-ra
+under Tahutimes II.; and in earlier times similar cherubic figures stand
+guarding the name of Antef V. on a scarab.
+
+Hathor also appears on various objects. A mirror handle carved in wood
+during the XIIth dynasty has the head of Hathor (P. 1. xiii.); columns
+with heads of Hathor, crowned with a shrine occupied by a uraeus, are
+found introduced by Amenhotep III. in his temples at El Kab and
+Sedeinga, and were copied by Ramessu II. at Abu Simbel. The similar head
+of Hathor was frequently made in glazed pottery as a pendant in the time
+of Akhenaten. And in later times these Hathor headed capitals became
+usual under the Ptolemies, as in the well-known case of the portico of
+the great temple at Dendera.
+
+[Illustration: 212.—L.D. I. 100.]
+
+Bes was one of the favourite popular deities of the Egyptians;
+restricted to no place in particular, every votary of music and the
+dance patronised Bes. The little statuette of a dancing girl with a Bes
+mask on, besides an actual mask in cartonnage, found at Kahun, show the
+popularity of the god in the XIIth dynasty. In later times his figure is
+frequently seen. At Tell el Amarna ornaments for necklaces made in
+glazed pottery followed two types of Bes, the god dancing with the
+tambourine seen in side view, and the earlier grotesque front view, with
+arms akimbo. These familiar little figures continued to be made till
+late times; and in the Roman age Bes was elevated to architectural
+dignity on the dies above the columns at Dendereh in the small temple of
+the Mammeisi.
+
+
+Another and more artificial mode of symbolical decoration was by means
+of the hieroglyphic signs. Having a mode of writing in which a single
+mark could express an abstract idea, it was possible to adapt writing to
+a purely decorative design. Even with alphabetic characters this has
+been done, as in the elaborate crossing patterns of the earlier Arab
+period in Egypt, in which no untrained eye would see anything but a
+complex ornament.
+
+[Illustration: 213.—_Ankh._]
+
+[Illustration: 214.—_Thet._]
+
+[Illustration: 215.—_Uas._]
+
+[Illustration: 216.—_Dad._]
+
+Four of the hieroglyphs most usually worked into ornamental designs are
+the _ankh_, a girdle, or symbol of life; the _thet_, another form of
+girdle, with longer bow-tie in front, which, as always identified with
+Isis, may have been a primitive feminine girdle, the ankh being
+masculine; the _uas_, a stick of authority, or symbol of power; and the
+_dad_, a row of columns, or symbol of stability.
+
+As early as the Old Kingdom we find wooden framings, or lattices,
+ornamented with _dad_ signs; and this continued at least as late as
+Amenhotep II. The _dad_ also appears in what is probably copied from
+pierced woodwork, in a relief at Qurneh of Ramessu I.
+
+[Illustration: 217.—L.D. III. 131.]
+
+[Illustration: Fig. 218.]
+
+The combination of _thet dad uas_, and of _ankh dad uas_, is found in
+the XIIth dynasty at Benihasan, apparently carved in relief, on the
+wooden panels of a litter (R.C. xciii.). The same occur similarly carved
+on the ebony doors of Hatshepsut at Deir el Bahri. The group begins to
+appear as an architectural design early in the XVIIIth dynasty, and
+continues down to Roman times, especially on bases of scenes and groups,
+thus forming a continuous border of good wishes. The hieroglyphs,
+_ankh_, _dad_, and _uas_, are all found on pendants for necklaces, in
+the blue glazed pottery of the XVIIIth dynasty, and also combined in one
+as a ring bezil. And the _thet_ girdle tie of Isis appears repeated as a
+pattern, probably of pierced woodwork, along the sides of a shrine of
+Tahutimes III. at Semneh, and on the base of a couch in the birth scene
+of Amenhotep III. (R.S. xxxviii.). As funeral amulets the _thet_, _dad_,
+and _ankh_ occur commonly, but that branch is outside of the subject of
+decoration.
+
+[Illustration: 219.—Khafra.]
+
+[Illustration: 220.—Khafra.]
+
+Another hieroglyph often appearing as an ornament is the _sam_, or
+symbol of union. The origin of it is yet unexplained. It certainly is a
+column of some kind; it has a well-marked capital and an abacus. The
+capital is formed much like the palm-leaf capital; and the stem is
+clearly bound round, and must therefore be composite. This suggests that
+it might be a column of palm-sticks bound together, with some tops left
+projecting for ornament. Such might well be more conventionalised at the
+beginning of Egyptian sculpture in the IVth dynasty than the other kinds
+of capitals; and the immigrant race came from the region of the palm,
+while the lotus and papyrus only were reached by them in Egypt itself.
+The base is a main difficulty to explain. It might be conventionalised
+clods of earth, with two curled-over side branches of the palm; but it
+has been so modified that we must await more evidence. In any case the
+stem is formed of several parts bound together, and hence it was very
+naturally adopted as a symbol of union. It was further grouped with two
+plants, the stalks of which were linked around it. It is always supposed
+that these symbolise northern and southern Egypt, and that the group
+means the union of all the land. Still it is yet uncertain what plants
+are intended to be represented, though on the throne of Tahutimes IV.
+they are clearly lotus and papyrus; but the evidence is too late to be
+of much value. This group was a favourite decoration from beginning to
+end of Egyptian history. At the beginning of the XIIth dynasty an
+addition was made by placing a figure of Hapi or the Nile on each side
+of the group (Tanis i. I.), each figure holding one of the two plants.
+As these figures were crowned, one with the sign of south the other of
+north, they point to the plants being emblems of the south and north
+also. This group with the figures is found as late as the XXth dynasty
+(L.D. III. 237). Another design came into fashion during the great
+foreign wars of the XVIIIth dynasty, representing two captives, one
+negro, one Syrian, bound back to back against the _sam_; thus it
+symbolised not only the union of upper and lower Egypt, but also of the
+northern and southern races outside of Egypt. Later on, four or even six
+such racial types are figured as bound together.
+
+
+
+
+                                 INDEX
+
+
+ Amu dresses, 15
+
+ _Ankh_ girdle, 117
+
+ Anthemion, 65, 72
+
+ Assyrian lotus, 72
+
+
+ Barks of gods, 83
+
+ Basket-work screens, 14, 36, 93
+
+ Bell capital, 76
+
+ Bes, god of dance, 115
+
+ Binding patterns, 103
+
+ Birds, 87
+
+ Boat covers, 29, 31
+
+ Borders, spiral, 40
+
+ „ lotus, 64
+
+ Borrowed art, 40
+
+ Brickwork panelling, 95
+
+ „ curved courses, 96
+
+
+ C-spirals, 34
+
+ Calf, 87
+
+ Captives, 84
+
+ „ bound together, 85, 122
+
+ „ painted on sandals, 86
+
+ Cavetto cornice, 98
+
+ Chain of spirals, 20
+
+ Chequer patterns, 44
+
+ Circles, not usual, 47
+
+ „ not divided by six, 49
+
+ Classes of ornament, 9
+
+ Cobra, 107
+
+ Coils, 20
+
+ Continuous spirals, 20
+
+ Convolvulus decoration, 81
+
+ Cornice, palm, 98
+
+
+ _Dad_ columns, 95, 117
+
+ Daisy, 58
+
+ Decoration, classes of, 9
+
+ Decorative instinct of Egyptians, 2
+
+ Descent of patterns, 5
+
+ Disc with spots, 60
+
+ „ and wings, 108
+
+ Duck, 87
+
+
+ Endless spirals, 21
+
+
+ Feather patterns, 50
+
+ „ types of, 51
+
+ „ belts, 52
+
+ _Fleur-de-lys_ type, 68
+
+ Flower ornament, 55
+
+ Framing of wood, 94
+
+ Fret patterns, 35
+
+ „ Greek, 36, 43
+
+
+ Garlands, 82
+
+ Geometrical ornament, 9, 12
+
+ Girdles _ankh_ and _thet_, 117
+
+ Globe and wings, 108
+
+ Graining of wood, 89
+
+ Grape pendants, 80
+
+ Greek fret, 36, 43
+
+ „ lotus, 72
+
+ „ architecture, structural, 91
+
+ Guilloche, 40
+
+
+ Hathor head, 114
+
+ „ capitals, 115
+
+ Hawk, 87
+
+ Hexagon pattern, 14
+
+ Hieroglyphs decorative, 3
+
+ „ symbolic, 116
+
+ Hooks, 20
+
+ Horns, 110
+
+
+ Ibex, 87
+
+ Imitation of wood, 89
+
+ „ stone, 89
+
+ Isiemkheb, tent of, 56, 87
+
+
+ Kahun, guilloche at, 41
+
+ Keft dresses, 15
+
+ _Khaker_ pattern, 100
+
+ Khufu, 108
+
+
+ Lachish, slabs, 100
+
+ Leatherwork, 56, 59
+
+ „ rosettes, 57
+
+ Line decoration, 12
+
+ „ zigzag, 13
+
+ Links, 20
+
+ Lion, 113
+
+ Lotus patterns, 61
+
+ „ tied, 62
+
+ „ capitals, 63
+
+ „ border, 64
+
+ „ plant, 66
+
+ „ friezes, 67
+
+ „ flower developed, 70
+
+ „ flower with pendants, 73
+
+ „ column, 76
+
+
+ Maat goddess, 114
+
+ Maeander, 40
+
+ Minusinsk art, 7
+
+ Mykenaean spirals, 38
+
+ „ borrowed art, 40
+
+ „ ox head, 59
+
+ „ disc and spots, 60
+
+
+ Natural ornament, 10, 50
+
+ Network patterns, 46
+
+ Nile figures, 121
+
+
+ Orchomenos, 39
+
+ Origin of patterns, 5
+
+ Ornament, classes of, 9
+
+
+ Palm capital, 78
+
+ „ not common, 79
+
+ „ cornice, 98
+
+ „ column, 120
+
+ Palmetto, 65
+
+ Panelled pattern, 95
+
+ Papyrus, 61, 75
+
+ „ cornice, 101
+
+ Patterns not re-invented, 8
+
+ Pectorals, 83
+
+ Perspective, Egyptian, 69
+
+ Plaiting patterns, 14, 36, 44
+
+
+ Ra, creator, preserver and destroyer, 111
+
+ Roll on buildings, 97, 103
+
+ Rope borders, 42
+
+ „ pattern, 92
+
+ Rosette, 56, 58
+
+ Rushwork plaiting, 14, 36, 93
+
+
+ _Sam_ column, 119
+
+ Scale pattern really feathers, 52
+
+ Scarab spirals, 18
+
+ „ symbolical, 112
+
+ Scroll pattern, 17
+
+ Siloam tomb, 100
+
+ Sloping faces of buildings, 96
+
+ Spiral or scroll, 17
+
+ „ origin of, 18
+
+ „ sole patterns, 24
+
+ „ earlier on scarabs, 28
+
+ „ surface decoration, 29
+
+ „ with lotus, 30
+
+ „ crossed lines, 31
+
+ „ quadruple, 31
+
+ „ quintuple, 34
+
+ „ developed to fret, 36
+
+ „ late, 23
+
+     _Subdivisions._
+
+ „ coils, 20, 21, 23, 24, 29, 40
+
+ „ hooks, 19, 20, 22
+
+ „ links, 19, 20, 21, 29, 42
+
+ „ chain, 20, 21
+
+ „ continuous, 20, 25
+
+ „ endless, 21, 23
+
+ „ false links, 26
+
+ „ lop-sided, 27
+
+ Spots, not Egyptian, 15, 60
+
+ Star patterns, 57, 58, 88
+
+ Stitch patterns, 43, 57
+
+ Structural ornament, 10, 91
+
+ Styles, characteristic, 8
+
+ Symbolic ornament, 11, 106
+
+
+ Tell el Amarna, 29, 54, 55, 58, 71, 75, 80, 87, 116
+
+ Terms for spirals, 20
+
+ _Thet_ girdle, 117
+
+ Thistle decoration, 82
+
+ Torus, origin of, 97
+
+
+ _Uas_ sceptre, 117
+
+ Uraeus, 107
+
+
+ V pattern, 55
+
+ Vine patterns, 79
+
+ Vulture, 87, 111
+
+
+ Wave borders, 41
+
+ Wavy line, rounded, 16
+
+ Weaving patterns, 14
+
+ Wings symbol of protection, 109
+
+ Wood, imitation of, 89
+
+ Wooden framing, 94
+
+ Wreaths, 83
+
+
+ Zigzag lines, 13
+
+
+                     _Printed in Great Britain by_
+
+     UNWIN BROTHERS, LIMITED, THE GRESHAM PRESS, WOKING AND LONDON
+
+------------------------------------------------------------------------
+
+
+
+
+                               METHUEN’S
+                           GENERAL LITERATURE
+
+
+
+
+[Illustration]
+
+
+
+
+                             A SELECTION OF
+                           MESSRS. METHUEN’S
+                              PUBLICATIONS
+
+
+   This Catalogue contains only a selection of the more important books
+ published by Messrs. Methuen. A complete catalogue of their publications
+                     may be obtained on application.
+
+ ARMSTRONG (Anthony) (‘A. A.’ of Punch)
+   WARRIORS AT EASE
+   WARRIORS STILL AT EASE
+   PERCIVAL AND I
+   PERCIVAL AT PLAY
+   ME AND FRANCES
+   HOW TO DO IT _Each 3s. 6d. net._
+   LIVESTOCK IN BARRACKS
+     Illustrated by E. H. SHEPARD. _6s. net._
+   TWO LEGS AND FOUR
+     Illustrated by RENÉ BULL. _5s. net._
+
+ BAIN (F. W.)
+   A DIGIT OF THE MOON
+   THE DESCENT OF THE SUN
+   A HEIFER OF THE DAWN
+   IN THE GREAT GOD’S HAIR
+   A DRAUGHT OF THE BLUE
+   AN ESSENCE OF THE DUSK
+   AN INCARNATION OF THE SNOW
+   A MINE OF FAULTS
+   THE ASHES OF A GOD
+   BUBBLES OF THE FOAM
+   A SYRUP OF THE BEES
+   THE LIVERY OF EVE
+   THE SUBSTANCE OF A DREAM _Each 3s. 6d. net._
+   AN ECHO OF THE SPHERES _10s. 6d. net._
+
+ BALFOUR (Sir Graham)
+   THE LIFE OF ROBERT LOUIS STEVENSON _Twentieth Edition. 7s. 6d. net._
+
+ BARKER (Ernest)
+   NATIONAL CHARACTER _10s. 6d. net._
+   GREEK POLITICAL THEORY _14s. net._
+   CHURCH, STATE AND STUDY _10s. 6d. net._
+
+ BELLOC (Hilaire)
+   PARIS _8s. 6d. net._
+   THE PYRENEES _8s. 6d. net._
+   MARIE ANTOINETTE _18s. net._
+   A HISTORY OF ENGLAND
+     In 5 Vols. Vols. I, II and III _Each 15s. net._
+   ON NOTHING
+   HILLS AND THE SEA
+   ON SOMETHING
+   THIS AND THAT AND THE OTHER
+   ON
+   FIRST AND LAST
+   ON EVERYTHING
+   ON ANYTHING
+   EMMANUEL BURDEN
+   A PICKED COMPANY _Each 3s. 6d. net._
+
+ BIRMINGHAM (George A.)
+   A WAYFARER IN HUNGARY
+     Illustrated. _8s. 6d. net._
+   SPILLIKINS: ESSAYS _3s. 6d. net._
+   SHIPS AND SEALING-WAX: ESSAYS _3s. 6d. net._
+
+ BLEEK (Dorothea F.)
+   ROCK PAINTINGS IN SOUTH AFRICA
+     Illustrated. _£2 2s. net._
+
+ BUDGE (Sir E. A. Wallis)
+   A HISTORY OF ETHIOPIA: NUBIA AND ABYSSINIA
+     Illustrated. 2 vols. _£3 13s. 6d. net._
+
+ CHESTERTON (G. K.)
+   COME TO THINK OF IT ... _6s. net._
+   G.K.C. AS M.C. _7s. 6d. net._
+   THE BALLAD OF THE WHITE HORSE _3s. 6d. net._
+     Also Illustrated by ROBERT AUSTIN. _12s. 6d. net._
+   CHARLES DICKENS
+   GENERALLY SPEAKING
+   ALL THINGS CONSIDERED
+   TREMENDOUS TRIFLES
+   FANCIES VERSUS FADS
+   ALARMS AND DISCURSIONS
+   A MISCELLANY OF MEN
+   THE USES OF DIVERSITY
+   THE OUTLINE OF SANITY
+   THE FLYING INN _Each 3s. 6d. net._
+   A GLEAMING COHORT _2s. 6d. net._
+   WINE, WATER AND SONG _1s. 6d. net._
+
+ CLUTTON-BROCK (A.)
+   WHAT IS THE KINGDOM OF HEAVEN?
+   ESSAYS ON ART
+   SHAKESPEARE’S HAMLET _Each 5s. net._
+   ESSAYS ON BOOKS _3s. 6d. net._
+   MORE ESSAYS ON BOOKS
+   ESSAYS ON LIFE
+   ESSAYS ON RELIGION
+   ESSAYS ON LITERATURE AND LIFE
+   MORE ESSAYS ON RELIGION _Each 6s. net._
+   SHELLEY, THE MAN AND THE POET _7s. 6d. net._
+
+ CRAWLEY (Ernest)
+   THE MYSTIC ROSE
+     Revised and Enlarged by THEODORE BESTERMAN. 2 vols. _£1 10s. net._
+   STUDIES OF SAVAGES AND SEX
+     Edited by THEODORE BESTERMAN. _10s. 6d. net._
+
+ DAVIS (H. W. C.)
+   EUROPE FROM 800–1789 _8s. 6d. net._
+
+ DERWENT (Lord)
+   GOYA
+     Illustrated. _10s. 6d. net._
+
+ DUGDALE (E. T. S.)
+   GERMAN DIPLOMATIC DOCUMENTS, 1871–1914
+     Selected from the Documents published by the German Foreign Office.
+     In 4 vols. Vol. I, 1871–90. Vol. II, 1891–8. Vol. III, 1898–1910.
+        Vol. IV, 1911–1914. _Each £1 1s. net._
+
+ EDWARDES (Tickner)
+   THE LORE OF THE HONEY-BEE
+     Illustrated. _7s. 6d._ and _3s. 6d. net._
+   BEEKEEPING FOR ALL
+     Illustrated. _3s. 6d. net._
+   THE BEE-MASTER OF WARRILOW
+     Illustrated. _7s. 6d. net._
+   BEE-KEEPING DO’S AND DONT’S _2s. 6d. net._
+
+ EINSTEIN (Albert)
+   RELATIVITY: THE SPECIAL AND GENERAL THEORY _5s. net._
+   SIDELIGHTS ON RELATIVITY _3s. 6d. net._
+   THE MEANING OF RELATIVITY _5s. net._
+   THE BROWNIAN MOVEMENT _5s. net._
+
+ EISLER (Robert)
+   THE MESSIAH JESUS AND JOHN THE BAPTIST:
+     according to Flavius Josephus’ hitherto neglected ‘Capture of
+        Jerusalem’ and other Jewish and Christian sources.
+     Translated by A. HAGGERTY KRAPPE.
+     Illustrated. Demy 8_vo._ _£2 2s. net._
+
+ FIELD (G. C.)
+   MORAL THEORY _6s. net._
+   PLATO AND HIS CONTEMPORARIES _12s. 6d. net._
+
+ FYLEMAN (Rose)
+   FAIRIES AND CHIMNEYS
+   THE FAIRY GREEN
+   THE FAIRY FLUTE
+   THE RAINBOW CAT
+   EIGHT LITTLE PLAYS FOR CHILDREN
+   FORTY GOOD-NIGHT TALES
+   FAIRIES AND FRIENDS
+   THE ADVENTURE CLUB
+   FORTY GOOD-MORNING TALES
+   SEVEN LITTLE PLAYS FOR CHILDREN
+   TWENTY TEA-TIME TALES _Each 3s. 6d. net._
+   THE DOLLS’ HOUSE
+     Illustrated by MARGARET TEMPEST. _5s. net._
+   GAY GO UP
+     Illustrated by DECIE MERWIN. _5s. net._
+   THE ROSE FYLEMAN FAIRY BOOK
+     Illustrated by HILDA MILLER. _10s. 6d. net._
+   A GARLAND OF ROSE’S: COLLECTED POEMS
+     Illustrated by RENÉ BULL. _8s. 6d. net._
+
+ GIBBON (Edward)
+   THE DECLINE AND FALL OF THE ROMAN EMPIRE With Notes, Appendixes and
+      Maps, by J. B. BURY.
+     Illustrated. 7 vols.
+       _Demy 8vo._ _15s. net_ each volume.
+     Also, unillustrated. _Crown 8vo._ _7s. 6d. net_ each volume.
+
+ GLADSTONE (Mary) (Mrs. Drew)
+   HER DIARIES AND LETTERS
+     Illustrated. _£1 1s. net._
+
+ GLOVER (T. R.)
+   VIRGIL
+   THE CONFLICT OF RELIGIONS IN THE EARLY ROMAN EMPIRE
+   POETS AND PURITANS _Each 10s. 6d. net._
+   FROM PERICLES TO PHILIP _12s. 6d. net._
+
+ GRAHAM (Harry)
+   THE WORLD WE LAUGH IN: More Deportmental Ditties
+     Illustrated by ‘FISH’. _Seventh Edition._ _5s. net._
+   STRAINED RELATIONS
+     Illustrated by H. STUART MENZIES and HENDY _6s. net._
+   THE WORLD’S WORKERS
+     Illustrated by ‘FOUGASSE’. _5s. net._
+   ADAM’S APPLES
+     Illustrated by JOHN REYNOLDS. _5s. net._
+
+ GRAHAME (Kenneth)
+   THE WIND IN THE WILLOWS
+     _Nineteenth Edition._ _7s. 6d. net._
+       Also illustrated by WYNDHAM PAYNE. _7s. 6d. net._
+       Also unillustrated. _3s. 6d. net._
+   _See also_ =Milne (A. A.)=
+
+ HADFIELD (J. A.)
+   PSYCHOLOGY AND MORALS
+     _Eighth Edition._ _Crown 8vo._ _6s. net._
+
+ HALL (H. R.)
+   THE ANCIENT HISTORY OF THE NEAR EAST
+     Illustrated. _£1 1s. net._
+   THE CIVILIZATION OF GREECE IN THE BRONZE AGE
+     Illustrated. _£1 10s. net._
+   A SEASON’S WORK AT UR OF THE CHALDEES.
+     Illustrated. _£1 5s. net._
+
+ HEATON (Rose Henniker)
+   THE PERFECT HOSTESS
+     Decorated by A. E. TAYLOR _7s. 6d. net._
+     Gift Edition, _£1 1s. net._
+
+ HERBERT (A. P.)
+   HONEYBUBBLE & CO. _6s. net._
+   MISLEADING CASES IN THE COMMON LAW. With an Introduction by LORD
+      HEWART. _5s. net._
+   MORE MISLEADING CASES. _5s. net._
+   WISDOM FOR THE WISE
+     Illustrated by GEORGE MORROW. _5s. net._
+   THE WHEREFORE AND THE WHY
+     Illustrated by GEORGE MORROW. _3s. 6d. net._
+   THE BOMBER GIPSY _3s. 6d. net._
+   THE SECRET BATTLE _3s. 6d. net._
+
+ HOLDSWORTH (Sir W. S.)
+   A HISTORY OF ENGLISH LAW Nine Volumes. _£1 5s. net each._
+
+ HUDSON (W. H.)
+   A SHEPHERD’S LIFE
+     Illustrated. _10s. 6d. net._
+     Also unillustrated. _3s. 6d. net._
+
+ HUTTON (Edward)
+   CITIES OF SICILY
+     Illustrated. _10s. 6d. net._
+   MILAN AND LOMBARDY
+   THE CITIES OF ROMAGNA AND THE MARCHES
+   SIENA AND SOUTHERN TUSCANY
+   NAPLES AND SOUTHERN ITALY
+     Illustrated. _Each 8s. 6d. net._
+   A WAYFARER IN UNKNOWN TUSCANY
+   THE CITIES OF SPAIN
+   THE CITIES OF UMBRIA
+   COUNTRY WALKS ABOUT FLORENCE
+   ROME
+   FLORENCE AND NORTHERN TUSCANY
+   VENICE AND VENETIA
+     Illustrated. _Each 7s. 6d. net_.
+
+ INGE (W. R.), D.D., Dean of St. Paul’s
+   CHRISTIAN MYSTICISM (The Bampton Lectures of 1899).
+     _Sixth Edition._ _7s. 6d. net._
+ KIPLING (Rudyard)
+   BARRACK-ROOM BALLADS
+     _255th Thousand._
+   THE SEVEN SEAS
+     _186th Thousand._
+   THE FIVE NATIONS
+     _143rd Thousand._
+   DEPARTMENTAL DITTIES
+     _117th Thousand._
+   THE YEARS BETWEEN
+     _95th Thousand._
+     Four Editions of these famous-volumes of poems are now published,
+        viz.:—
+       _Crown 8vo._ _Buckram, 7s. 6d. net._
+       _Fcap. 8vo._ _Cloth, 6s. net._
+       _Leather_ _7s. 6d. net._
+     Service Edition. Two volumes each book. _Square Fcap. 8vo. 3s. net
+        each volume._
+   A KIPLING ANTHOLOGY—VERSE
+     _Sixth Edition._
+     _Leather_ _7s. 6d. net._
+     _Cloth_ _6s. net_ and _3s. 6d. net._
+   TWENTY POEMS FROM RUDYARD KIPLING
+     _486th Thousand._ _1s. net._
+   A CHOICE OF SONGS
+     _Second Edition._ _2s. net._
+
+ LAMB (Charles and Mary)
+   THE COMPLETE WORKS
+     Edited by E. V. LUCAS. Six Volumes. With Frontispieces. _6s. net
+        each._
+   SELECTED LETTERS
+     Edited by G. T. CLAPTON. _3s. 6d. net._
+   THE CHARLES LAMB DAY BOOK
+     Compiled by E. V. LUCAS. _6s. net._
+
+ LANKESTER (Sir Ray)
+   SCIENCE FROM AN EASY CHAIR
+   SCIENCE FROM AN EASY CHAIR:
+     Second Series.
+   DIVERSIONS OF A NATURALIST
+   GREAT AND SMALL THINGS
+     Illustrated. _Each 7s. 6d. net._
+   SECRETS OF EARTH AND SEA
+     Illustrated. _8s. 6d. net._
+
+ LINDRUM (Walter)
+   BILLIARDS.
+     Illustrated. _6s. net._
+
+ LODGE (Sir Oliver)
+   MAN AND THE UNIVERSE _7s. 6d. net_ and _3s. 6d. net._
+   THE SURVIVAL OF MAN _7s. 6d. net._
+   RAYMOND _10s. 6d. net._
+   RAYMOND REVISED _6s. net._
+   MODERN PROBLEMS _3s. 6d. net._
+   REASON AND BELIEF _3s. 6d. net._
+   THE SUBSTANCE OF FAITH _2s. net._
+   RELATIVITY _1s. net._
+   CONVICTION OF SURVIVAL _2s. net._
+
+ LUCAS (E. V.)
+   THE LIFE OF CHARLES LAMB
+     2 Vols. _£1 1s. net._
+   THE COLVINS AND THEIR FRIENDS _£1 1s. net._
+   VERMEER THE MAGICAL _5s. net._
+   A WANDERER IN ROME
+   A WANDERER IN HOLLAND
+   A WANDERER IN LONDON
+   LONDON REVISITED (Revised)
+   A WANDERER IN PARIS
+   A WANDERER IN FLORENCE
+   A WANDERER IN VENICE _Each 10s. 6d. net._
+   A WANDERER AMONG PICTURES _8s. 6d. net._
+   E. V. LUCAS’S LONDON _£1 net._
+   INTRODUCING LONDON
+   INTRODUCING PARIS _Each 2s. 6d. net._
+   THE OPEN ROAD _6s. net._
+     Also, illustrated by CLAUDE A. SHEPPERSON, A.R.W.S. _10s. 6d. net._
+     Also, India Paper. _Leather, 7s. 6d. net._
+   THE JOY OF LIFE _6s. net. Leather Edition, 7s. 6d. net._
+     Also, India Paper. _Leather, 7s. 6d. net._
+   THE GENTLEST ART _6s. 6d. net._
+   _And_ THE SECOND POST _6s. net._
+     Also together in one volume. _7s. 6d. net._
+   FIRESIDE AND SUNSHINE
+   CHARACTER AND COMEDY
+   GOOD COMPANY
+   ONE DAY AND ANOTHER
+   OLD LAMPS FOR NEW
+   LOITERER’S HARVEST
+   LUCK OF THE YEAR
+   EVENTS AND EMBROIDERIES
+   A FRONDED ISLE
+   A ROVER I WOULD BE
+   GIVING AND RECEIVING
+   HER INFINITE VARIETY
+   ENCOUNTERS AND DIVERSIONS _Each 3s. 6d. net._
+   CLOUD AND SILVER
+   A BOSWELL OF BAGHDAD
+   ’TWIXT EAGLE AND DOVE
+   THE PHANTOM JOURNAL
+   ZIGZAGS IN FRANCE
+   TURNING THINGS OVER
+   TRAVELLER’S LUCK _Each 6s. net._
+
+   FRENCH LEAVES
+     Illustrated. _5s. net._
+   ROVING EAST AND ROVING WEST _5s. net._
+   _Mr. Punch’s_ COUNTY SONGS
+     Illustrated by E. H. SHEPARD. _10s. 6d. net._
+   ‘THE MORE I SEE OF MEN ...’
+   OUT OF A CLEAR SKY
+   IF DOGS COULD WRITE
+   ‘... AND SUCH SMALL DEER’ _Each 3s. 6d. net._
+   THE PEKINESE NATIONAL ANTHEM
+     Illustrated by PERSIS KIRMSE. _1s. net._
+   _See also_ =Lamb (Charles).=
+
+ LYND (Robert)
+   IT’S A FINE WORLD _5s. net._
+   THE GREEN MAN
+   THE PLEASURES OF IGNORANCE
+   THE GOLDFISH
+   THE LITTLE ANGEL
+   THE BLUE LION
+   THE PEAL OF BELLS
+   THE MONEY-BOX
+   THE ORANGE TREE _Each 3s. 6d. net._
+
+ McDOUGALL (William)
+   AN INTRODUCTION TO SOCIAL PSYCHOLOGY _10s. 6d. net._
+   NATIONAL WELFARE AND NATIONAL DECAY _6s. net._
+   AN OUTLINE OF PSYCHOLOGY _10s. 6d. net._
+   AN OUTLINE OF ABNORMAL PSYCHOLOGY _15s. net._
+   BODY AND MIND _12s. 6d. net._
+   CHARACTER AND THE CONDUCT OF LIFE _10s. 6d. net._
+   MODERN MATERIALISM AND EMERGENT EVOLUTION _7s. 6d. net._
+   ETHICS AND SOME MODERN WORLD PROBLEMS _7s. 6d. net._
+
+ MALLET (Sir C. E.)
+   A HISTORY OF THE UNIVERSITY OF OXFORD
+     In 3 vols. _Each £1 1s. net._
+
+ MAETERLINCK (Maurice)
+   THE BLUE BIRD _6s. net._
+     Also, illustrated by F. CAYLEY ROBINSON. _10s. 6d. net._
+   OUR ETERNITY _6s. net._
+   THE UNKNOWN GUEST _6s. net._
+   POEMS _5s. net._
+   THE WRACK OF THE STORM _6s. net._
+   THE BURGOMASTER OF STILEMONDE _5s. net._
+   THE BETROTHAL _6s. net._
+   MOUNTAIN PATHS _6s. net._
+   THE GREAT SECRET _7s. 6d. net._
+   THE CLOUD THAT LIFTED and THE POWER OF THE DEAD _7s. 6d. net._
+   _MARY MAGDALENE_ _2s. net._
+
+ MARLOWE (Christopher)
+   THE WORKS. In 6 volumes. General Editor, R. H. Case.
+     THE LIFE OF MARLOWE, by C. F. TUCKER BROOKE, and DIDO.
+       Edited by the Same. _8s. 6d. net._
+     TAMBURLAINE, I AND II.
+       Edited by U. M. ELLIS-FERMOR. _10s. 6d. net._
+     THE JEW OF MALTA and THE MASSACRE AT PARIS
+       Edited by H. S. BENNETT. _8s. 6d. net._
+
+ MASEFIELD (John)
+   ON THE SPANISH MAIN _8s. 6d. net._
+   A SAILOR’S GARLAND _3s. 6d. net._
+   SEA LIFE IN NELSON’S TIME _7s. 6d. net._
+
+ METHUEN (Sir A.)
+   AN ANTHOLOGY OF MODERN VERSE
+     _232nd Thousand._
+   SHAKESPEARE TO HARDY: An Anthology of English Lyrics
+     _28th Thousand._
+       _Each, Cloth, 6s. net._
+       _Leather, 7s. 6d. net._
+
+ MILNE (A. A.)
+   BY WAY OF INTRODUCTION _6s. net._
+   TOAD OF TOAD HALL
+     A Play founded on Kenneth Grahame’s ‘The Wind in the Willows.’ _5s.
+        net_ and _2s. 6d. net._
+   THOSE WERE THE DAYS: Collected Stories _7s. 6d. net._
+   NOT THAT IT MATTERS
+   IF I MAY
+   THE SUNNY SIDE
+   THE RED HOUSE MYSTERY
+   ONCE A WEEK
+   THE HOLIDAY ROUND
+   THE DAY’S PLAY
+   MR. PIM PASSES BY _Each 3s. 6d. net._
+   WHEN WE WERE VERY YOUNG
+     _211th Thousand._
+   WINNIE-THE-POOH
+     _118th Thousand._
+   NOW WE ARE SIX
+     _119th Thousand._
+   THE HOUSE AT POOH CORNER
+     _105th Thousand._
+     Each illustrated by E. H. SHEPARD. _7s. 6d. net._ _Leather, 10s.
+        6d. net._
+   THE CHRISTOPHER ROBIN STORY BOOK. _Third Edition._
+     Illustrated by E. H. SHEPARD. _5s. net._
+   THE CHRISTOPHER ROBIN BIRTHDAY BOOK
+     Illustrated by E. H. SHEPARD. _3s. 6d. net._
+
+ MILNE (A. A.) and FRASER-SIMSON (H.)
+   FOURTEEN SONGS FROM ‘WHEN WE WERE VERY YOUNG’
+     _Thirteenth Edition._ _7s. 6d. net._
+   TEDDY BEAR AND OTHER SONGS FROM ‘WHEN WE WERE VERY YOUNG’ _7s. 6d.
+      net._
+   THE KING’S BREAKFAST
+     _Third Edition._ _3s. 6d. net._
+   SONGS FROM ‘NOW WE ARE SIX’
+     _Second Edition._ _7s. 6d. net._
+   MORE ‘VERY YOUNG’ SONGS _7s. 6d. net._
+   THE HUMS OF POOH _7s. 6d. net._
+     Words by A. A. MILNE.
+     Music by H. FRASER-SIMSON.
+     Decorations by E. H. SHEPARD.
+
+ MORTON (H. V.)
+   THE HEART OF LONDON
+     _27th Thousand._ _3s. 6d. net._
+     Also with Scissor Cuts by L. HUMMEL. _6s. net._
+   THE SPELL OF LONDON
+     _20th Thousand._
+   THE NIGHTS OF LONDON
+     _13th Thousand._ _Each 3s. 6d. net._
+   IN SEARCH OF ENGLAND
+     _64th Thousand._
+   THE CALL OF ENGLAND
+     _31st Thousand._
+   IN SEARCH OF SCOTLAND
+     _86th Thousand._
+   IN SEARCH OF IRELAND
+     _30th Thousand._ _Each illustrated. 7s. 6d. net._
+   THE SOUL OF SCOTLAND _1s. net._
+
+ NEUBURGER (Albert)
+   THE TECHNICAL ARTS AND SCIENCES OF THE ANCIENTS
+     Translated by H. L. BROSE.
+     Illustrated. _£2 2s. net._
+
+ OMAN (Sir Charles)
+   A HISTORY OF THE ART OF WAR IN THE MIDDLE AGES, A.D. 378–1485
+     2 vols. Illustrated. _£1 16s. net._
+   STUDIES IN THE NAPOLEONIC WARS _8s. 6d. net._
+
+ PERRY (W. J.)
+   THE ORIGIN OF MAGIC AND RELIGION
+   THE GROWTH OF CIVILIZATION _Each 6s. net._
+   THE CHILDREN OF THE SUN _£1 1s. net._
+
+ PETRIE (Sir Flinders)
+   A HISTORY OF EGYPT
+     In 6 Volumes.
+     Vol. I. FROM THE IST TO THE XVITH DYNASTY
+       _Eleventh Edition, Revised._ _12s. net._
+     Vol. II. THE XVIITH AND XVIIITH DYNASTIES
+       _Seventh Edition, Revised._ _9s. net._
+     Vol. III. XIXTH TO XXXTH DYNASTIES
+       _Third Edition._ _12s. net._
+     Vol. IV. EGYPT UNDER THE PTOLEMAIC DYNASTY
+       By EDWYN BEVAN. _15s. net._
+     Vol. V. EGYPT UNDER ROMAN RULE
+       By J. G. MILNE.
+       _Third Edition, Revised._ _12s. net._
+     Vol. VI. EGYPT IN THE MIDDLE AGES
+       By STANLEY LANE POOLE.
+       _Fourth Edition._ _10s. net._
+
+ PONSONBY OF SHULBREDE (Lord)
+   ENGLISH DIARIES _£1 1s. net._
+   MORE ENGLISH DIARIES _12s. 6d. net._
+   SCOTTISH AND IRISH DIARIES _10s. 6d. net._
+
+ RUTTER (Frank)
+   EL GRECO. Illustrated. _£1 16s. net._
+
+ SELLAR (W. C.) and YEATMAN (R. J.)
+   1066 AND ALL THAT
+     Illustrated by JOHN REYNOLDS.
+     _32nd Thousand._ _5s. net._
+
+ STEVENSON (R. L.)
+   THE LETTERS Edited by Sir SIDNEY COLVIN. 4 Vols. _Each 6s. net._
+
+ SURTEES (R. S.)
+   HANDLEY CROSS
+   MR. SPONGE’S SPORTING TOUR
+   ASK MAMMA
+   MR. FACEY ROMFORD’S HOUNDS
+   PLAIN OR RINGLETS?
+   HILLINGDON HALL _Each_ illustrated. _7s. 6d. net._
+   JORROCKS’S JAUNTS AND JOLLITIES
+   HAWBUCK GRANGE _Each_ illustrated. _6s. net._
+
+ TAYLOR (A. E.)
+   PLATO: THE MAN AND HIS WORK _£1 1s. net._
+   PLATO: TIMÆUS AND CRITIAS _6s. net._
+   ELEMENTS OF METAPHYSICS _12s. 6d. net._
+
+ TILDEN (William T.)
+   THE ART OF LAWN TENNIS
+     _Revised Edition_
+   SINGLES AND DOUBLES _Each_ illustrated. _6s. net._
+   THE COMMON SENSE OF LAWN TENNIS
+   MATCH PLAY AND THE SPIN OF THE BALL _Each_ illustrated. _5s. net._
+
+ TILESTON (Mary W.)
+   DAILY STRENGTH FOR DAILY NEEDS
+     _Thirty-fourth Edition._ _3s. 6d. net._
+     India Paper. _Leather, 6s. net._
+
+ TRAPP (Oswald Graf)
+   THE ARMOURY OF THE CASTLE OF CHURBURG
+     Translated by J. G. MANN.
+     Richly illustrated.
+     Limited to 400 copies. _£4 14s. 6d. net._
+
+ UNDERHILL (Evelyn)
+   MYSTICISM. _Revised Edition._ _15s. net._
+   THE LIFE OF THE SPIRIT AND THE LIFE OF TO-DAY _7s. 6d. net._
+   MAN AND THE SUPERNATURAL _7s. 6d. net._
+   CONCERNING THE INNER LIFE _2s. net._
+   THE HOUSE OF THE SOUL _2s. net._
+
+ VARDON (Harry)
+   HOW TO PLAY GOLF
+     Illustrated. _Nineteenth Edition._ _5s. net._
+
+ WAND (J. W. C.)
+   THE DEVELOPMENT OF SACRAMENTALISM _6s. net._
+   A HISTORY OF THE MODERN CHURCH _8s. 6d. net._
+
+ WILDE (Oscar)
+   THE WORKS
+     In 16 Vols. _Each 6s. 6d. net._
+     I. LORD ARTHUR SAVILE’S CRIME AND THE PORTRAIT OF MR. W. H.
+     II. THE DUCHESS OF PADUA
+     III. POEMS
+     IV. LADY WINDERMERE’S FAN
+     V. A WOMAN OF NO IMPORTANCE
+     VI. AN IDEAL HUSBAND
+     VII. THE IMPORTANCE OF BEING EARNEST
+     VIII. A HOUSE OF POMEGRANATES
+     IX. INTENTIONS
+     X. DE PROFUNDIS AND PRISON LETTERS
+     XI. ESSAYS
+     XII. SALOME, A FLORENTINE TRAGEDY, and LA SAINTE COURTISANE
+     XIV. SELECTED PROSE OF OSCAR WILDE
+     XV. ART AND DECORATION
+     XVI. FOR LOVE OF THE KING _5s. net._
+     XVII. VERA, OR THE NIHILISTS
+
+ WILLIAMSON (G. C.)
+   THE BOOK OF FAMILLE ROSE
+     Richly Illustrated. _£8 8s. net._
+
+
+           Methuen & Co. Ltd., 36 Essex Street, London, W.C.2
+
+------------------------------------------------------------------------
+
+
+
+
+                          TRANSCRIBER’S NOTES
+
+
+ 1. Silently corrected obvious typographical errors and variations in
+      spelling.
+ 2. Retained archaic, non-standard, and uncertain spellings as printed.
+ 3. Enclosed italics font in _underscores_.
+
+*** END OF THE PROJECT GUTENBERG EBOOK EGYPTIAN DECORATIVE ART ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg™ electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg™ trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
+
+• You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+• You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you “AS-IS”, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
