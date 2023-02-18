@@ -14,7 +14,7 @@
 
   <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 
-  <link rel="icon" type="image/png" href="{% static "" %}">
+  <link rel="icon" type="image/png" href="{% static "portfolio/logo.png" %}">
 
   <title>Kemo DIAITE</title>
 </head>
@@ -33,7 +33,7 @@
       <div class="collapse navbar-collapse text-center" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="{% static "" %}">CV</a>
+            <a class="nav-link" href="{% static "portfolio/CVKemo.pdf" %}">CV</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://www.linkedin.com/in/k%C3%A9mo-diaite-053a79188/" target="_blank">LinkedIn</a>
@@ -43,7 +43,7 @@
           </li>
 
             <li>
-            <a role="button" href="" class="btn btn-primary">Mes Certificats</a>
+            <a role="button" href="{% url 'certificat:certificats' %}" class="btn btn-primary">Mes Certificats</a>
           </li>
             &nbsp;&nbsp;
 
