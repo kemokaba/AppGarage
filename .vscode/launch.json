@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-GarageAppApplication<garageApp>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "io.tutorial.spring.garageApp.GarageAppApplication",
+      "projectName": "garageApp",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
